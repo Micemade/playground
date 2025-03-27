@@ -31,14 +31,14 @@
 			"step": "installPlugin",
 			"pluginData": {
 				"resource": "url",
-				"url": "https://github.com/Micemade/playground/raw/refs/heads/main/releases/mosaic-product-layouts-v.1.0.0.zip"
+				"url": "https://raw.githubusercontent.com/Micemade/playground/main/releases/mosaic-product-layouts-v.1.0.0.zip"
 			}
 		},
 		{
 			"step": "importWxr",
 			"file": {
 				"resource": "url",
-				"url": "https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/WXR-imports/micemade.com.demo.mpl.xml"
+				"url": "https://raw.githubusercontent.com/Micemade/playground/main/WXR-imports/micemade.com.demo.mpl.xml"
 			}
 		}
 	]
