@@ -373,7 +373,7 @@
 	<generator>https://wordpress.org/?v=6.7.2</generator>
 
 <image>
-	<url>http://localhost:8882/wp-content/uploads/2023/06/micemade-logo-2023-1-100x100.png</url>
+	<url>https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2023/06/micemade-logo-2023-1-100x100.png</url>
 	<title>MPL Playground</title>
 	<link>http://localhost:8882</link>
 	<width>32</width>
@@ -403,7 +403,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2023/06/micemade-logo-2023.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2023/06/micemade-logo-2023.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023/06/micemade-logo-2023.png]]></wp:meta_value>
@@ -436,7 +436,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2023/06/micemade-logo-2023-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2023/06/micemade-logo-2023-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023/06/micemade-logo-2023-1.png]]></wp:meta_value>
@@ -469,7 +469,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woocommerce-placeholder.png]]></wp:meta_value>
@@ -502,7 +502,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/audio-monitor-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/audio-monitor-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/audio-monitor-01.jpg]]></wp:meta_value>
@@ -535,7 +535,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/audio-monitor-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/audio-monitor-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/audio-monitor-02.jpg]]></wp:meta_value>
@@ -568,7 +568,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/audio-monitor-03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/audio-monitor-03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/audio-monitor-03.jpg]]></wp:meta_value>
@@ -601,7 +601,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/audio-podcast-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/audio-podcast-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/audio-podcast-01.jpg]]></wp:meta_value>
@@ -634,7 +634,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/audio-podcast-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/audio-podcast-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/audio-podcast-02.jpg]]></wp:meta_value>
@@ -667,7 +667,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/cosmetic-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/cosmetic-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/cosmetic-01.jpg]]></wp:meta_value>
@@ -700,7 +700,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/cosmetic-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/cosmetic-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/cosmetic-02.jpg]]></wp:meta_value>
@@ -733,7 +733,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/cosmetic-03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/cosmetic-03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/cosmetic-03.jpg]]></wp:meta_value>
@@ -766,7 +766,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/cosmetic-04.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/cosmetic-04.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/cosmetic-04.jpg]]></wp:meta_value>
@@ -799,7 +799,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/cosmetic-05.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/cosmetic-05.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/cosmetic-05.jpg]]></wp:meta_value>
@@ -832,7 +832,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/cosmetic-06.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/cosmetic-06.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/cosmetic-06.jpg]]></wp:meta_value>
@@ -865,7 +865,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/cosmetic-07.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/cosmetic-07.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/cosmetic-07.jpg]]></wp:meta_value>
@@ -898,7 +898,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/cosmetic-group-06.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/cosmetic-group-06.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/cosmetic-group-06.jpg]]></wp:meta_value>
@@ -931,7 +931,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/cosmetic-group-07.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/cosmetic-group-07.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/cosmetic-group-07.jpg]]></wp:meta_value>
@@ -964,7 +964,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/cosmetic-group-08.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/cosmetic-group-08.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/cosmetic-group-08.jpg]]></wp:meta_value>
@@ -997,7 +997,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/footwear-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/footwear-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/footwear-01.jpg]]></wp:meta_value>
@@ -1030,7 +1030,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/footwear-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/footwear-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/footwear-02.jpg]]></wp:meta_value>
@@ -1063,7 +1063,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/footwear-03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/footwear-03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/footwear-03.jpg]]></wp:meta_value>
@@ -1096,7 +1096,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/footwear-04.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/footwear-04.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/footwear-04.jpg]]></wp:meta_value>
@@ -1129,7 +1129,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/footwear-sport-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/footwear-sport-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/footwear-sport-01.jpg]]></wp:meta_value>
@@ -1162,7 +1162,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/footwear-sport-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/footwear-sport-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/footwear-sport-02.jpg]]></wp:meta_value>
@@ -1195,7 +1195,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/footwear-sport-03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/footwear-sport-03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/footwear-sport-03.jpg]]></wp:meta_value>
@@ -1228,7 +1228,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/furniture-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/furniture-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/furniture-01.jpg]]></wp:meta_value>
@@ -1261,7 +1261,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/furniture-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/furniture-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/furniture-02.jpg]]></wp:meta_value>
@@ -1294,7 +1294,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/furniture-03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/furniture-03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/furniture-03.jpg]]></wp:meta_value>
@@ -1327,7 +1327,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/furniture-04.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/furniture-04.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/furniture-04.jpg]]></wp:meta_value>
@@ -1360,7 +1360,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/furniture-05.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/furniture-05.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/furniture-05.jpg]]></wp:meta_value>
@@ -1393,7 +1393,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/furniture-06.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/furniture-06.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/furniture-06.jpg]]></wp:meta_value>
@@ -1426,7 +1426,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/furniture-07.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/furniture-07.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/furniture-07.jpg]]></wp:meta_value>
@@ -1459,7 +1459,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/furniture-08.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/furniture-08.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/furniture-08.jpg]]></wp:meta_value>
@@ -1492,7 +1492,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/male-casual-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/male-casual-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/male-casual-01.jpg]]></wp:meta_value>
@@ -1525,7 +1525,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/male-casual-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/male-casual-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/male-casual-02.jpg]]></wp:meta_value>
@@ -1558,7 +1558,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/male-casual-03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/male-casual-03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/male-casual-03.jpg]]></wp:meta_value>
@@ -1591,7 +1591,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/male-casual-04.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/male-casual-04.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/male-casual-04.jpg]]></wp:meta_value>
@@ -1624,7 +1624,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/male-casual-05.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/male-casual-05.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/male-casual-05.jpg]]></wp:meta_value>
@@ -1657,7 +1657,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/male-casual-06.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/male-casual-06.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/male-casual-06.jpg]]></wp:meta_value>
@@ -1690,7 +1690,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/male-sport-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/male-sport-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/male-sport-01.jpg]]></wp:meta_value>
@@ -1723,7 +1723,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/male-sport-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/male-sport-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/male-sport-02.jpg]]></wp:meta_value>
@@ -1756,7 +1756,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/male-sport-03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/male-sport-03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/male-sport-03.jpg]]></wp:meta_value>
@@ -1789,7 +1789,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/male-sport-04.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/male-sport-04.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/male-sport-04.jpg]]></wp:meta_value>
@@ -1822,7 +1822,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/male-sport-05.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/male-sport-05.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/male-sport-05.jpg]]></wp:meta_value>
@@ -1855,7 +1855,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/male-sport-06.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/male-sport-06.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/male-sport-06.jpg]]></wp:meta_value>
@@ -1888,7 +1888,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/male-sport-07.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/male-sport-07.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/male-sport-07.jpg]]></wp:meta_value>
@@ -1921,7 +1921,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/male-sport-08.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/male-sport-08.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/male-sport-08.jpg]]></wp:meta_value>
@@ -1954,7 +1954,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/male-sport-09.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/male-sport-09.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/male-sport-09.jpg]]></wp:meta_value>
@@ -1987,7 +1987,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/sport-clothes-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/sport-clothes-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/sport-clothes-01.jpg]]></wp:meta_value>
@@ -2020,7 +2020,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/sport-clothes-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/sport-clothes-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/sport-clothes-02.jpg]]></wp:meta_value>
@@ -2053,7 +2053,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/sport-clothes-03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/sport-clothes-03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/sport-clothes-03.jpg]]></wp:meta_value>
@@ -2086,7 +2086,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/sport-clothes-04.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/sport-clothes-04.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/sport-clothes-04.jpg]]></wp:meta_value>
@@ -2119,7 +2119,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-casual-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-casual-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-casual-01.jpg]]></wp:meta_value>
@@ -2152,7 +2152,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-casual-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-casual-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-casual-02.jpg]]></wp:meta_value>
@@ -2185,7 +2185,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-casual-03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-casual-03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-casual-03.jpg]]></wp:meta_value>
@@ -2218,7 +2218,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-casual-04.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-casual-04.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-casual-04.jpg]]></wp:meta_value>
@@ -2251,7 +2251,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-casual-5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-casual-5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-casual-5.jpg]]></wp:meta_value>
@@ -2284,7 +2284,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-fashion-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-fashion-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-fashion-01.jpg]]></wp:meta_value>
@@ -2317,7 +2317,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-fashion-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-fashion-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-fashion-02.jpg]]></wp:meta_value>
@@ -2350,7 +2350,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-fashion-03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-fashion-03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-fashion-03.jpg]]></wp:meta_value>
@@ -2383,7 +2383,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-sport-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-sport-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-sport-01.jpg]]></wp:meta_value>
@@ -2416,7 +2416,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-sport-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-sport-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-sport-02.jpg]]></wp:meta_value>
@@ -2449,7 +2449,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-sport-03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-sport-03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-sport-03.jpg]]></wp:meta_value>
@@ -2482,7 +2482,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-sport-04.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-sport-04.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-sport-04.jpg]]></wp:meta_value>
@@ -2515,7 +2515,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-sport-05.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-sport-05.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-sport-05.jpg]]></wp:meta_value>
@@ -2548,7 +2548,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-sport-06.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-sport-06.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-sport-06.jpg]]></wp:meta_value>
@@ -2581,7 +2581,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-sport-07.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-sport-07.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-sport-07.jpg]]></wp:meta_value>
@@ -2614,7 +2614,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-sport-08.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-sport-08.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-sport-08.jpg]]></wp:meta_value>
@@ -2647,7 +2647,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-sport-09.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-sport-09.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-sport-09.jpg]]></wp:meta_value>
@@ -2680,7 +2680,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-sport-10.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-sport-10.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-sport-10.jpg]]></wp:meta_value>
@@ -2713,7 +2713,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-sport-11.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-sport-11.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-sport-11.jpg]]></wp:meta_value>
@@ -2746,7 +2746,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/woman-sport-12.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/woman-sport-12.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/woman-sport-12.jpg]]></wp:meta_value>
@@ -2779,7 +2779,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/furniture-cabinet-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/furniture-cabinet-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/furniture-cabinet-01.jpg]]></wp:meta_value>
@@ -2812,7 +2812,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/furniture-couch-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/furniture-couch-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/furniture-couch-01.jpg]]></wp:meta_value>
@@ -2845,7 +2845,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/furniture-sofa-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/furniture-sofa-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/furniture-sofa-01.jpg]]></wp:meta_value>
@@ -2878,7 +2878,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/furniture-lamp-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/furniture-lamp-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/furniture-lamp-01.jpg]]></wp:meta_value>
@@ -2911,7 +2911,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/furniture-lamp-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/furniture-lamp-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/furniture-lamp-02.jpg]]></wp:meta_value>
@@ -2944,7 +2944,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/furniture-sofa-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/furniture-sofa-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/furniture-sofa-02.jpg]]></wp:meta_value>
@@ -2977,7 +2977,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/toy-01.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/toy-01.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/toy-01.jpeg]]></wp:meta_value>
@@ -3010,7 +3010,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/toy-02.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/toy-02.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/toy-02.jpeg]]></wp:meta_value>
@@ -3043,7 +3043,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/toy-03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/toy-03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/toy-03.jpg]]></wp:meta_value>
@@ -3076,7 +3076,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/toy-04.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/toy-04.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/toy-04.jpg]]></wp:meta_value>
@@ -3109,7 +3109,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/toy-05.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/toy-05.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/toy-05.jpg]]></wp:meta_value>
@@ -3142,7 +3142,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/circles-background.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/circles-background.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/circles-background.jpeg]]></wp:meta_value>
@@ -3224,7 +3224,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/screen-recording-2024-11-15-at-11.20.40_mov_hd.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/screen-recording-2024-11-15-at-11.20.40_mov_hd.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/screen-recording-2024-11-15-at-11.20.40_mov_hd.original.jpg]]></wp:meta_value>
@@ -3261,7 +3261,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/screen-recording-2024-11-15-at-11.20.40_mov_vp9_1440p.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/screen-recording-2024-11-15-at-11.20.40_mov_vp9_1440p.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/screen-recording-2024-11-15-at-11.20.40_mov_vp9_1440p.original.jpg]]></wp:meta_value>
@@ -3347,7 +3347,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/screen-recording-2024-11-15-at-13.18.55_mov_hd.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/screen-recording-2024-11-15-at-13.18.55_mov_hd.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/screen-recording-2024-11-15-at-13.18.55_mov_hd.original.jpg]]></wp:meta_value>
@@ -3384,7 +3384,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/screen-recording-2024-11-15-at-13.18.55_mov_hevc_2160p.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/screen-recording-2024-11-15-at-13.18.55_mov_hevc_2160p.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/screen-recording-2024-11-15-at-13.18.55_mov_hevc_2160p.original.jpg]]></wp:meta_value>
@@ -3470,7 +3470,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/screen-recording-2024-11-15-at-15.04.18_mov.scrubthumb-scaled.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/screen-recording-2024-11-15-at-15.04.18_mov.scrubthumb-scaled.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/screen-recording-2024-11-15-at-15.04.18_mov.scrubthumb-scaled.jpg]]></wp:meta_value>
@@ -3507,7 +3507,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/screen-recording-2024-11-15-at-18.42.15_mov.scrubthumb.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/screen-recording-2024-11-15-at-18.42.15_mov.scrubthumb.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/screen-recording-2024-11-15-at-18.42.15_mov.scrubthumb.jpg]]></wp:meta_value>
@@ -3593,7 +3593,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/screen-recording-2024-11-16-at-13.43.31-1_mov.scrubthumb.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/screen-recording-2024-11-16-at-13.43.31-1_mov.scrubthumb.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/screen-recording-2024-11-16-at-13.43.31-1_mov.scrubthumb.jpg]]></wp:meta_value>
@@ -3679,7 +3679,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/screen-recording-2024-11-16-at-17.59.10_mov.scrubthumb.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/screen-recording-2024-11-16-at-17.59.10_mov.scrubthumb.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/screen-recording-2024-11-16-at-17.59.10_mov.scrubthumb.jpg]]></wp:meta_value>
@@ -3716,7 +3716,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/crop-201-150-398-297-0-Landing-page-hero-images.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/crop-201-150-398-297-0-Landing-page-hero-images.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/crop-201-150-398-297-0-Landing-page-hero-images.png]]></wp:meta_value>
@@ -3749,7 +3749,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/Product-layout-graphics.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/Product-layout-graphics.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/Product-layout-graphics.png]]></wp:meta_value>
@@ -3831,7 +3831,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/12/screen-recording-2024-12-18-at-11.46.12_mov_hd.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/12/screen-recording-2024-12-18-at-11.46.12_mov_hd.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/12/screen-recording-2024-12-18-at-11.46.12_mov_hd.original.jpg]]></wp:meta_value>
@@ -3917,7 +3917,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2025/01/screen-recording-2025-01-07-at-09.07.58_mov_std.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2025/01/screen-recording-2025-01-07-at-09.07.58_mov_std.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/01/screen-recording-2025-01-07-at-09.07.58_mov_std.original.jpg]]></wp:meta_value>
@@ -4003,7 +4003,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2025/01/screen-recording-2025-01-07-at-10.17.07_mov_std.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2025/01/screen-recording-2025-01-07-at-10.17.07_mov_std.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/01/screen-recording-2025-01-07-at-10.17.07_mov_std.original.jpg]]></wp:meta_value>
@@ -4089,7 +4089,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2025/01/screen-recording-2025-01-07-at-10.56.14_mov_avc_240p.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2025/01/screen-recording-2025-01-07-at-10.56.14_mov_avc_240p.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/01/screen-recording-2025-01-07-at-10.56.14_mov_avc_240p.original.jpg]]></wp:meta_value>
@@ -4126,7 +4126,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/crop-441-328-317-236-0-Product-layout-graphics.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/crop-441-328-317-236-0-Product-layout-graphics.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/crop-441-328-317-236-0-Product-layout-graphics.png]]></wp:meta_value>
@@ -4159,7 +4159,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2024/11/crop-407-303-386-287-0-Product-layout-graphics.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/crop-407-303-386-287-0-Product-layout-graphics.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/11/crop-407-303-386-287-0-Product-layout-graphics.png]]></wp:meta_value>
@@ -4241,7 +4241,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2025/01/screen-recording-2025-01-22-at-18.40.50_mov_hd.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2025/01/screen-recording-2025-01-22-at-18.40.50_mov_hd.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/01/screen-recording-2025-01-22-at-18.40.50_mov_hd.original.jpg]]></wp:meta_value>
@@ -4327,7 +4327,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2025/02/category-styles_mp4_avc_240p.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2025/02/category-styles_mp4_avc_240p.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/02/category-styles_mp4_avc_240p.original.jpg]]></wp:meta_value>
@@ -4413,7 +4413,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2025/02/category-saving-styles_mp4_avc_240p.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2025/02/category-saving-styles_mp4_avc_240p.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/02/category-saving-styles_mp4_avc_240p.original.jpg]]></wp:meta_value>
@@ -4450,7 +4450,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2025/02/category-saving-styles_mp4_avc_240p.original-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2025/02/category-saving-styles_mp4_avc_240p.original-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/02/category-saving-styles_mp4_avc_240p.original-1.jpg]]></wp:meta_value>
@@ -4536,7 +4536,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2025/02/layout-editing_mp4_dvd.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2025/02/layout-editing_mp4_dvd.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/02/layout-editing_mp4_dvd.original.jpg]]></wp:meta_value>
@@ -4622,7 +4622,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2025/02/single-product-edit-layout-1_mp4_std.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2025/02/single-product-edit-layout-1_mp4_std.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/02/single-product-edit-layout-1_mp4_std.original.jpg]]></wp:meta_value>
@@ -4903,7 +4903,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2025/02/grouping-elements_mp4_std.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2025/02/grouping-elements_mp4_std.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/02/grouping-elements_mp4_std.original.jpg]]></wp:meta_value>
@@ -4989,7 +4989,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2025/03/single-product-edit-layout_mp4_dvd.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2025/03/single-product-edit-layout_mp4_dvd.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/single-product-edit-layout_mp4_dvd.original.jpg]]></wp:meta_value>
@@ -5075,7 +5075,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2025/03/grouping-elements_mp4_avc_240p.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2025/03/grouping-elements_mp4_avc_240p.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/grouping-elements_mp4_avc_240p.original.jpg]]></wp:meta_value>
@@ -5161,7 +5161,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2025/03/single-product-saving-setups_mp4_avc_240p.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2025/03/single-product-saving-setups_mp4_avc_240p.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/single-product-saving-setups_mp4_avc_240p.original.jpg]]></wp:meta_value>
@@ -5247,7 +5247,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2025/03/single-product-helpers_mp4_dvd.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2025/03/single-product-helpers_mp4_dvd.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/single-product-helpers_mp4_dvd.original.jpg]]></wp:meta_value>
@@ -5284,7 +5284,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2025/03/Mosaic-Product-Layouts-Reel-Cover.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2025/03/Mosaic-Product-Layouts-Reel-Cover.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/Mosaic-Product-Layouts-Reel-Cover.jpg]]></wp:meta_value>
@@ -5366,7 +5366,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2025/03/mosaic-product-layouts-reel_mp4_std.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2025/03/mosaic-product-layouts-reel_mp4_std.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/mosaic-product-layouts-reel_mp4_std.original.jpg]]></wp:meta_value>
@@ -5444,7 +5444,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2025/03/products-selection_mp4_dvd.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2025/03/products-selection_mp4_dvd.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/products-selection_mp4_dvd.original.jpg]]></wp:meta_value>
@@ -5522,7 +5522,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8882/wp-content/uploads/2025/03/starter-layouts-and-styles_mp4_avc_240p.original.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2025/03/starter-layouts-and-styles_mp4_avc_240p.original.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/starter-layouts-and-styles_mp4_avc_240p.original.jpg]]></wp:meta_value>
@@ -7533,8 +7533,8 @@ Aut aliquam repudiandae iure corporis. Ut delectus neque et nobis iure et deleni
 <!-- wp:micemade/products-grid {"id":"1fcf47d7-3995-45ad-b29d-7b3c6ba4d0f3","savedLayouts":"{\u0022Desktop\u0022:[{\u0022w\u0022:17,\u0022h\u0022:21,\u0022x\u0022:0,\u0022y\u0022:0,\u0022i\u0022:\u0022item-0\u0022},{\u0022w\u0022:15,\u0022h\u0022:19,\u0022x\u0022:17,\u0022y\u0022:2,\u0022i\u0022:\u0022item-1\u0022},{\u0022w\u0022:16,\u0022h\u0022:23,\u0022x\u0022:32,\u0022y\u0022:1,\u0022i\u0022:\u0022item-2\u0022},{\u0022w\u0022:17,\u0022h\u0022:22,\u0022x\u0022:5,\u0022y\u0022:21,\u0022i\u0022:\u0022item-3\u0022},{\u0022w\u0022:15,\u0022h\u0022:21,\u0022x\u0022:22,\u0022y\u0022:23,\u0022i\u0022:\u0022item-5\u0022}],\u0022Tablet\u0022:[{\u0022w\u0022:8,\u0022h\u0022:15,\u0022x\u0022:0,\u0022y\u0022:0,\u0022i\u0022:\u0022item-0\u0022},{\u0022w\u0022:8,\u0022h\u0022:15,\u0022x\u0022:8,\u0022y\u0022:0,\u0022i\u0022:\u0022item-1\u0022},{\u0022w\u0022:8,\u0022h\u0022:15,\u0022x\u0022:16,\u0022y\u0022:0,\u0022i\u0022:\u0022item-2\u0022},{\u0022w\u0022:9,\u0022h\u0022:15,\u0022x\u0022:3,\u0022y\u0022:15,\u0022i\u0022:\u0022item-3\u0022},{\u0022w\u0022:10,\u0022h\u0022:15,\u0022x\u0022:12,\u0022y\u0022:14,\u0022i\u0022:\u0022item-5\u0022}],\u0022Mobile\u0022:[{\u0022w\u0022:11,\u0022h\u0022:13,\u0022x\u0022:0,\u0022y\u0022:0,\u0022i\u0022:\u0022item-0\u0022},{\u0022w\u0022:11,\u0022h\u0022:13,\u0022x\u0022:1,\u0022y\u0022:13,\u0022i\u0022:\u0022item-1\u0022},{\u0022w\u0022:11,\u0022h\u0022:13,\u0022x\u0022:0,\u0022y\u0022:26,\u0022i\u0022:\u0022item-2\u0022},{\u0022w\u0022:11,\u0022h\u0022:12,\u0022x\u0022:1,\u0022y\u0022:39,\u0022i\u0022:\u0022item-3\u0022},{\u0022i\u0022:\u0022item-5\u0022,\u0022x\u0022:0,\u0022y\u0022:51,\u0022w\u0022:11,\u0022h\u0022:12}]}","startLayout":"none","querySettings":{"handPicked":true,"ordering":"date/desc","per_page":"10","category":[]},"wcItemsMap":{"item-0":[2589,"Lightweight black tights"],"item-1":[2585,"Open striped set for summer days"],"item-2":[2587,"Blue and orange jogger style"],"item-3":[2588,"Pink fashionable sweater shirt"],"item-5":[2581,"Olive green hoodie for winter"]},"handpickedWcItems":[{"value":2589,"label":"Lightweight black tights","mediaId":2535},{"value":2585,"label":"Open striped set for summer days","mediaId":2532},{"value":2587,"label":"Blue and orange jogger style","mediaId":2513},{"value":2588,"label":"Pink fashionable sweater shirt","mediaId":2541},{"value":2581,"label":"Olive green hoodie for winter","mediaId":2505}],"itemZindexes":{"item-0":4,"item-1":3,"item-2":2,"item-3":1,"item-5":1},"productElementSettings":{"productLayout":"image-background","titleSize":{"min":"1.1","max":"1.5"},"priceSize":{"min":"1","max":"1.4"},"excerptSize":{"min":"0.9","max":"0.9"},"addToCartSize":{"min":"0.8","max":"0.9"},"truncateExcerpt":true,"truncateLines":"2","titleShadow":"0px 0px 0px #0000001A","priceShadow":"0px 0px 0px #0000001A ","descShadow":"0px 0px 0px #0000001A ","elementsAlign":"center","verticalAlignment":"bottom","paddingSize":{"min":"1","max":"1.2"},"spacingSize":{"min":"0.2","max":"0.4"},"imageSize":64,"itemBorder":{"style":"none","width":"0px"},"itemBorderRadius":"20px","boxShadow":"0px 0px 69px #fcd70052 ","titleColor":"#ffffff","priceColor":"#ffffff","excerptColor":"#ffffff","overlayOpacity":0.6,"blendModeOptions":"normal","imageOn":true,"titleOn":true,"priceOn":true,"excerptOn":true,"addToCartOn":true,"addToCartSettings":{"color":"","buttonColor":"","customAddToCart":false,"classNames":["wp-element-button"]},"ratingSize":0.8,"saleBadgeSettings":{"fluidFont":{"min":"0.8","max":"0.9"},"buttonColor":"#62509f","position":{"top":0,"left":5},"shape":"default"},"categorySettings":{"fluidFont":{"min":"0.8","max":"0.8"},"color":"#F9F9F9","buttonColor":"#545454"},"elements":[{"id":"title","name":"Title","visible":["Desktop","Tablet","Mobile"],"sort":true},{"id":"price","name":"Price","visible":["Desktop","Tablet","Mobile"],"sort":true},{"id":"addToCart","name":"Add to cart","visible":["Desktop","Tablet","Mobile"],"sort":true},{"id":"excerpt","name":"Excerpt","visible":["Desktop"],"sort":true},{"id":"categories","name":"Categories","visible":["Desktop"],"sort":true},{"id":"rating","name":"Rating","visible":["Desktop","Tablet","Mobile"],"sort":true},{"id":"saleBadge","name":"Sale badge","visible":["Tablet","Mobile","Desktop"]}],"overlayColor":"linear-gradient(180deg,rgba(255,203,112,0.18) 37%,rgba(199,82,191,0.5) 67%,rgb(17,35,126) 91%)"},"itemStyleOverrides":{"item-2":{"productLayout":"vertical","titleSize":{"min":"1.1","max":"1.2"},"priceSize":{"min":"1","max":"1.1"},"excerptSize":{"min":"0.8","max":"0.8"},"addToCartSize":{"min":"0.8","max":"0.8"},"truncateExcerpt":true,"truncateLines":"2","titleShadow":"0px 0px 0px #0000001A","priceShadow":"0px 0px 0px #0000001A","descShadow":"0px 0px 0px #0000001A ","elementsAlign":"start","verticalAlignment":"top","priceCartStretched":false,"paddingSize":{"min":"1","max":"1.2"},"spacingSize":{"min":"0.2","max":"0.4"},"imageSize":55,"itemBorder":{"width":"1px","color":"rgba(0,0,0,0.15)","style":"solid"},"itemBorderRadius":"8px","boxShadow":"0px 0px 0px #0000001A ","titleColor":"#333","priceColor":"#333","excerptColor":"#333","overlayOpacity":0.4,"backgroundColor":"#ffffff","imageOn":true,"titleOn":true,"priceOn":true,"excerptOn":true,"addToCartOn":true,"addToCartSettings":{"customAddToCart":false,"classNames":["wp-element-button"]},"ratingSize":0.8,"saleBadgeSettings":{"fluidFont":{"min":"0.8","max":"0.9"},"backColor":"#333","position":"top-left","shape":"default"},"categorySettings":{"fluidFont":{"min":"0.8","max":"0.9"},"color":"#666","backColor":"#e5e5e5"},"elements":[{"id":"title","name":"Title","visible":["Desktop","Tablet","Mobile"]},{"id":"price","name":"Price","visible":["Desktop","Tablet","Mobile"]},{"id":"addToCart","name":"Add to cart","visible":["Desktop","Tablet","Mobile"]},{"id":"excerpt","name":"Excerpt","visible":["Desktop"]},{"id":"categories","name":"Categories","visible":["Desktop","Tablet"]},{"id":"rating","name":"Rating","visible":["Desktop","Tablet","Mobile"]},{"id":"saleBadge","name":"Sale badge","visible":["Desktop","Tablet","Mobile"]}]},"item-1":{"productLayout":"vertical","titleSize":{"min":"1.1","max":"1.2"},"priceSize":{"min":"1","max":"1.1"},"excerptSize":{"min":"0.8","max":"0.8"},"addToCartSize":{"min":"0.8","max":"0.8"},"truncateExcerpt":true,"truncateLines":"2","titleShadow":"0px 0px 0px #0000001A","priceShadow":"0px 0px 0px #0000001A","descShadow":"0px 0px 0px #0000001A ","elementsAlign":"start","verticalAlignment":"top","priceCartStretched":false,"paddingSize":{"min":"1","max":"1.2"},"spacingSize":{"min":"0.2","max":"0.4"},"imageSize":55,"itemBorder":{"width":"1px","color":"rgba(0,0,0,0.15)","style":"solid"},"itemBorderRadius":"8px","boxShadow":"0px 0px 0px #0000001A ","titleColor":"#333","priceColor":"#333","excerptColor":"#333","overlayOpacity":0.4,"backgroundColor":"#ffffff","imageOn":true,"titleOn":true,"priceOn":true,"excerptOn":true,"addToCartOn":true,"addToCartSettings":{"customAddToCart":false,"classNames":["wp-element-button"]},"ratingSize":0.8,"saleBadgeSettings":{"fluidFont":{"min":"0.8","max":"0.9"},"backColor":"#333","position":"top-left","shape":"default"},"categorySettings":{"fluidFont":{"min":"0.8","max":"0.9"},"color":"#666","backColor":"#e5e5e5"},"elements":[{"id":"title","name":"Title","visible":["Desktop","Tablet","Mobile"]},{"id":"price","name":"Price","visible":["Desktop","Tablet","Mobile"]},{"id":"addToCart","name":"Add to cart","visible":["Desktop","Tablet","Mobile"]},{"id":"excerpt","name":"Excerpt","visible":["Desktop"]},{"id":"categories","name":"Categories","visible":["Desktop","Tablet"]},{"id":"rating","name":"Rating","visible":["Desktop","Tablet","Mobile"]},{"id":"saleBadge","name":"Sale badge","visible":["Desktop","Tablet","Mobile"]}]},"item-0":{"productLayout":"vertical","titleSize":{"min":"1.1","max":"1.2"},"priceSize":{"min":"1","max":"1.1"},"excerptSize":{"min":"0.8","max":"0.8"},"addToCartSize":{"min":"0.8","max":"0.8"},"truncateExcerpt":true,"truncateLines":"2","titleShadow":"0px 0px 0px #0000001A","priceShadow":"0px 0px 0px #0000001A","descShadow":"0px 0px 0px #0000001A ","elementsAlign":"start","verticalAlignment":"top","priceCartStretched":false,"paddingSize":{"min":"1","max":"1.2"},"spacingSize":{"min":"0.2","max":"0.4"},"imageSize":55,"itemBorder":{"width":"1px","color":"rgba(0,0,0,0.15)","style":"solid"},"itemBorderRadius":"8px","boxShadow":"0px 0px 0px #0000001A ","titleColor":"#333","priceColor":"#333","excerptColor":"#333","overlayOpacity":0.4,"backgroundColor":"#ffffff","imageOn":true,"titleOn":true,"priceOn":true,"excerptOn":true,"addToCartOn":true,"addToCartSettings":{"customAddToCart":false,"classNames":["wp-element-button"]},"ratingSize":0.8,"saleBadgeSettings":{"fluidFont":{"min":"0.8","max":"0.9"},"backColor":"#333","position":"top-left","shape":"default"},"categorySettings":{"fluidFont":{"min":"0.8","max":"0.9"},"color":"#666","backColor":"#e5e5e5"},"elements":[{"id":"title","name":"Title","visible":["Desktop","Tablet","Mobile"]},{"id":"price","name":"Price","visible":["Desktop","Tablet","Mobile"]},{"id":"addToCart","name":"Add to cart","visible":["Desktop","Tablet","Mobile"]},{"id":"excerpt","name":"Excerpt","visible":["Desktop"]},{"id":"categories","name":"Categories","visible":["Desktop","Tablet"]},{"id":"rating","name":"Rating","visible":["Desktop","Tablet","Mobile"]},{"id":"saleBadge","name":"Sale badge","visible":["Desktop","Tablet","Mobile"]}]},"item-3":{"productLayout":"vertical","titleSize":{"min":"1.1","max":"1.2"},"priceSize":{"min":"1","max":"1.1"},"excerptSize":{"min":"0.8","max":"0.8"},"addToCartSize":{"min":"0.8","max":"0.8"},"truncateExcerpt":true,"truncateLines":"2","titleShadow":"0px 0px 0px #0000001A","priceShadow":"0px 0px 0px #0000001A","descShadow":"0px 0px 0px #0000001A ","elementsAlign":"start","verticalAlignment":"top","priceCartStretched":false,"paddingSize":{"min":"1","max":"1.2"},"spacingSize":{"min":"0.2","max":"0.4"},"imageSize":55,"itemBorder":{"width":"1px","color":"rgba(0,0,0,0.15)","style":"solid"},"itemBorderRadius":"8px","boxShadow":"0px 0px 0px #0000001A ","titleColor":"#333","priceColor":"#333","excerptColor":"#333","overlayOpacity":0.4,"backgroundColor":"#ffffff","imageOn":true,"titleOn":true,"priceOn":true,"excerptOn":true,"addToCartOn":true,"addToCartSettings":{"customAddToCart":false,"classNames":["wp-element-button"]},"ratingSize":0.8,"saleBadgeSettings":{"fluidFont":{"min":"0.8","max":"0.9"},"backColor":"#333","position":"top-left","shape":"default"},"categorySettings":{"fluidFont":{"min":"0.8","max":"0.9"},"color":"#666","backColor":"#e5e5e5"},"elements":[{"id":"title","name":"Title","visible":["Desktop","Tablet","Mobile"]},{"id":"price","name":"Price","visible":["Desktop","Tablet","Mobile"]},{"id":"addToCart","name":"Add to cart","visible":["Desktop","Tablet","Mobile"]},{"id":"excerpt","name":"Excerpt","visible":["Desktop"]},{"id":"categories","name":"Categories","visible":["Desktop","Tablet"]},{"id":"rating","name":"Rating","visible":["Desktop","Tablet","Mobile"]},{"id":"saleBadge","name":"Sale badge","visible":["Desktop","Tablet","Mobile"]}]},"item-5":{"productLayout":"vertical","titleSize":{"min":"1.1","max":"1.2"},"priceSize":{"min":"1","max":"1.1"},"excerptSize":{"min":"0.8","max":"0.8"},"addToCartSize":{"min":"0.8","max":"0.8"},"truncateExcerpt":true,"truncateLines":"2","titleShadow":"0px 0px 0px #0000001A","priceShadow":"0px 0px 0px #0000001A","descShadow":"0px 0px 0px #0000001A ","elementsAlign":"start","verticalAlignment":"top","priceCartStretched":false,"paddingSize":{"min":"1","max":"1.2"},"spacingSize":{"min":"0.2","max":"0.4"},"imageSize":55,"itemBorder":{"width":"1px","color":"rgba(0,0,0,0.15)","style":"solid"},"itemBorderRadius":"8px","boxShadow":"0px 0px 0px #0000001A ","titleColor":"#333","priceColor":"#333","excerptColor":"#333","overlayOpacity":0.4,"backgroundColor":"#ffffff","imageOn":true,"titleOn":true,"priceOn":true,"excerptOn":true,"addToCartOn":true,"addToCartSettings":{"customAddToCart":false,"classNames":["wp-element-button"]},"ratingSize":0.8,"saleBadgeSettings":{"fluidFont":{"min":"0.8","max":"0.9"},"backColor":"#333","position":"top-left","shape":"default"},"categorySettings":{"fluidFont":{"min":"0.8","max":"0.9"},"color":"#666","backColor":"#e5e5e5"},"elements":[{"id":"title","name":"Title","visible":["Desktop","Tablet","Mobile"]},{"id":"price","name":"Price","visible":["Desktop","Tablet","Mobile"]},{"id":"addToCart","name":"Add to cart","visible":["Desktop","Tablet","Mobile"]},{"id":"excerpt","name":"Excerpt","visible":["Desktop"]},{"id":"categories","name":"Categories","visible":["Desktop","Tablet"]},{"id":"rating","name":"Rating","visible":["Desktop","Tablet","Mobile"]},{"id":"saleBadge","name":"Sale badge","visible":["Desktop","Tablet","Mobile"]}]}},"align":"wide"} /--></div>
 <!-- /wp:group -->
 
-<!-- wp:cover {"url":"http://localhost:8882/wp-content/uploads/2024/11/circles-background.jpeg","id":2692,"hasParallax":true,"dimRatio":40,"overlayColor":"tertiary","isUserOverlayColor":true,"isDark":false,"align":"full","className":"is-style-blur-image-more","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull is-light has-parallax is-style-blur-image-more" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--x-large);padding-left:var(--wp--preset--spacing--medium)"><div class="wp-block-cover__image-background wp-image-2692 has-parallax" style="background-position:50% 50%;background-image:url(http://localhost:8882/wp-content/uploads/2024/11/circles-background.jpeg)"></div><span aria-hidden="true" class="wp-block-cover__background has-tertiary-background-color has-background-dim-40 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"2.2em"}},"fontFamily":"chelsea-market"} -->
+<!-- wp:cover {"url":"https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/circles-background.jpeg","id":2692,"hasParallax":true,"dimRatio":40,"overlayColor":"tertiary","isUserOverlayColor":true,"isDark":false,"align":"full","className":"is-style-blur-image-more","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull is-light has-parallax is-style-blur-image-more" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--x-large);padding-left:var(--wp--preset--spacing--medium)"><div class="wp-block-cover__image-background wp-image-2692 has-parallax" style="background-position:50% 50%;background-image:url(https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/circles-background.jpeg)"></div><span aria-hidden="true" class="wp-block-cover__background has-tertiary-background-color has-background-dim-40 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"2.2em"}},"fontFamily":"chelsea-market"} -->
 <h3 class="wp-block-heading has-text-align-center has-chelsea-market-font-family has-custom-font" style="font-size:2.2em;font-family:chelsea-market"><mark style="background-color:rgba(0, 0, 0, 0);color:#d12c2c" class="has-inline-color">Colorful</mark> <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color">and</mark> <mark style="background-color:rgba(0, 0, 0, 0);color:#00870b" class="has-inline-color">playful</mark>.</h3>
 <!-- /wp:heading -->
 
@@ -7681,8 +7681,8 @@ Aut aliquam repudiandae iure corporis. Ut delectus neque et nobis iure et deleni
 <!-- wp:micemade/categories-grid {"id":"3b349eb8-c74f-4234-a330-bcbd12a0a8e5","savedLayouts":"{\u0022Desktop\u0022:[{\u0022w\u0022:17,\u0022h\u0022:11,\u0022x\u0022:0,\u0022y\u0022:0,\u0022i\u0022:\u0022item-0\u0022},{\u0022w\u0022:14,\u0022h\u0022:11,\u0022x\u0022:17,\u0022y\u0022:0,\u0022i\u0022:\u0022item-1\u0022},{\u0022w\u0022:31,\u0022h\u0022:12,\u0022x\u0022:0,\u0022y\u0022:11,\u0022i\u0022:\u0022item-2\u0022},{\u0022w\u0022:17,\u0022h\u0022:23,\u0022x\u0022:31,\u0022y\u0022:0,\u0022i\u0022:\u0022item-3\u0022}],\u0022Tablet\u0022:[{\u0022w\u0022:14,\u0022h\u0022:10,\u0022x\u0022:0,\u0022y\u0022:0,\u0022i\u0022:\u0022item-0\u0022},{\u0022w\u0022:10,\u0022h\u0022:10,\u0022x\u0022:14,\u0022y\u0022:0,\u0022i\u0022:\u0022item-1\u0022},{\u0022w\u0022:11,\u0022h\u0022:9,\u0022x\u0022:0,\u0022y\u0022:10,\u0022i\u0022:\u0022item-2\u0022},{\u0022w\u0022:13,\u0022h\u0022:9,\u0022x\u0022:11,\u0022y\u0022:10,\u0022i\u0022:\u0022item-3\u0022}],\u0022Mobile\u0022:[{\u0022w\u0022:6,\u0022h\u0022:8,\u0022x\u0022:0,\u0022y\u0022:0,\u0022i\u0022:\u0022item-0\u0022},{\u0022w\u0022:6,\u0022h\u0022:8,\u0022x\u0022:6,\u0022y\u0022:0,\u0022i\u0022:\u0022item-1\u0022},{\u0022w\u0022:6,\u0022h\u0022:8,\u0022x\u0022:0,\u0022y\u0022:8,\u0022i\u0022:\u0022item-2\u0022},{\u0022w\u0022:6,\u0022h\u0022:8,\u0022x\u0022:6,\u0022y\u0022:8,\u0022i\u0022:\u0022item-3\u0022}]}","startLayout":"layout-14","querySettings":{"handPicked":true,"ordering":"count/asc","per_page":"10"},"wcItemsMap":{"item-0":[727590013,"For kids (0)"],"item-1":[727590012,"Furniture (0)"],"item-2":[727590011,"Man jogging equipment (1)"],"item-3":[727590010,"Man gym clothes (0)"]},"handpickedWcItems":[{"value":727590013,"label":"For kids (0)"},{"value":727590012,"label":"Furniture (0)"},{"value":727590011,"label":"Man jogging equipment (1)"},{"value":727590010,"label":"Man gym clothes (0)"}],"itemZindexes":{"item-0":1,"item-1":1,"item-2":1,"item-3":1},"productElementSettings":{"productLayout":"default","titleSize":{"min":"1.2","max":"1.5"},"excerptSize":{"min":"0.9","max":"0.9"},"truncateExcerpt":true,"truncateLines":2,"titleShadow":"2px 2px 0px #00000063 ","descShadow":"0px 0px 0px #0000001A ","verticalAlignment":"bottom","elementsAlign":"center","paddingSize":{"min":"1.2","max":"1.3"},"spacingSize":{"min":"0.3","max":"0.4"},"itemBorder":{"color":"#bfbfbf","style":"solid","width":"1px"},"itemBorderRadius":"10px","boxShadow":"0px 0px 53px #f2f00f9c ","titleColor":"#F9F9F9","countColor":"#ffffff","excerptColor":"#F9F9F9","overlayOpacity":0.25,"backgroundColor":"#00000085","imageOn":true,"titleOn":true,"countOn":true,"excerptOn":false,"imageSize":50},"itemStyleOverrides":{"item-2":{"productLayout":"default","titleSize":{"min":"1.2","max":"1.6"},"excerptSize":{"min":"0.9","max":"1"},"truncateExcerpt":false,"truncateLines":2,"titleShadow":"0px 0px 0px #0000001A","descShadow":"0px 0px 0px #0000001A","elementsAlign":"start","verticalAlignment":"bottom","paddingSize":{"min":"1.2","max":"1.6"},"spacingSize":{"min":"0.3","max":"0.4"},"imageSize":50,"itemBorder":{"width":"1px","color":"rgba(0,0,0,0.15)","style":"solid"},"itemBorderRadius":"0px","boxShadow":"0px 0px 0px #0000001A","titleColor":"#333","countColor":"#333","excerptColor":"#333","overlayColor":"rgb(255,255,255)","overlayOpacity":0.4,"backgroundColor":"","imageOn":true,"titleOn":true,"countOn":true,"excerptOn":true},"item-1":{"productLayout":"default","titleSize":{"min":"1.2","max":"1.6"},"excerptSize":{"min":"0.9","max":"1"},"truncateExcerpt":false,"truncateLines":2,"titleShadow":"0px 0px 0px #0000001A","descShadow":"0px 0px 0px #0000001A","elementsAlign":"start","verticalAlignment":"bottom","paddingSize":{"min":"1.2","max":"1.6"},"spacingSize":{"min":"0.3","max":"0.4"},"imageSize":50,"itemBorder":{"width":"1px","color":"rgba(0,0,0,0.15)","style":"solid"},"itemBorderRadius":"0px","boxShadow":"0px 0px 0px #0000001A","titleColor":"#333","countColor":"#333","excerptColor":"#333","overlayColor":"rgb(255,255,255)","overlayOpacity":0.4,"backgroundColor":"","imageOn":true,"titleOn":true,"countOn":true,"excerptOn":true},"item-0":{"productLayout":"default","titleSize":{"min":"1.2","max":"1.6"},"excerptSize":{"min":"0.9","max":"1"},"truncateExcerpt":false,"truncateLines":2,"titleShadow":"0px 0px 0px #0000001A","descShadow":"0px 0px 0px #0000001A","elementsAlign":"start","verticalAlignment":"bottom","paddingSize":{"min":"1.2","max":"1.6"},"spacingSize":{"min":"0.3","max":"0.4"},"imageSize":50,"itemBorder":{"width":"1px","color":"rgba(0,0,0,0.15)","style":"solid"},"itemBorderRadius":"0px","boxShadow":"0px 0px 0px #0000001A","titleColor":"#333","countColor":"#333","excerptColor":"#333","overlayColor":"rgb(255,255,255)","overlayOpacity":0.4,"backgroundColor":"","imageOn":true,"titleOn":true,"countOn":true,"excerptOn":true},"item-3":{"productLayout":"default","titleSize":{"min":"1.2","max":"1.6"},"excerptSize":{"min":"0.9","max":"1"},"truncateExcerpt":false,"truncateLines":2,"titleShadow":"0px 0px 0px #0000001A","descShadow":"0px 0px 0px #0000001A","elementsAlign":"start","verticalAlignment":"bottom","paddingSize":{"min":"1.2","max":"1.6"},"spacingSize":{"min":"0.3","max":"0.4"},"imageSize":50,"itemBorder":{"width":"1px","color":"rgba(0,0,0,0.15)","style":"solid"},"itemBorderRadius":"0px","boxShadow":"0px 0px 0px #0000001A","titleColor":"#333","countColor":"#333","excerptColor":"#333","overlayColor":"rgb(255,255,255)","overlayOpacity":0.4,"backgroundColor":"","imageOn":true,"titleOn":true,"countOn":true,"excerptOn":true}},"align":"wide"} /--></div>
 <!-- /wp:group -->
 
-<!-- wp:cover {"url":"http://localhost:8882/wp-content/uploads/2024/11/circles-background.jpeg","id":2692,"hasParallax":true,"dimRatio":40,"overlayColor":"primary-alt","isUserOverlayColor":true,"isDark":false,"align":"full","className":"is-style-blur-image-more","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull is-light has-parallax is-style-blur-image-more" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--x-large);padding-left:var(--wp--preset--spacing--medium)"><div class="wp-block-cover__image-background wp-image-2692 has-parallax" style="background-position:50% 50%;background-image:url(http://localhost:8882/wp-content/uploads/2024/11/circles-background.jpeg)"></div><span aria-hidden="true" class="wp-block-cover__background has-primary-alt-background-color has-background-dim-40 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"2.2em"}},"fontFamily":"chelsea-market"} -->
+<!-- wp:cover {"url":"https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/circles-background.jpeg","id":2692,"hasParallax":true,"dimRatio":40,"overlayColor":"primary-alt","isUserOverlayColor":true,"isDark":false,"align":"full","className":"is-style-blur-image-more","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull is-light has-parallax is-style-blur-image-more" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--x-large);padding-left:var(--wp--preset--spacing--medium)"><div class="wp-block-cover__image-background wp-image-2692 has-parallax" style="background-position:50% 50%;background-image:url(https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/circles-background.jpeg)"></div><span aria-hidden="true" class="wp-block-cover__background has-primary-alt-background-color has-background-dim-40 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"2.2em"}},"fontFamily":"chelsea-market"} -->
 <h3 class="wp-block-heading has-text-align-center has-chelsea-market-font-family has-custom-font" style="font-size:2.2em;font-family:chelsea-market"><mark style="background-color:rgba(0, 0, 0, 0);color:#d12c2c" class="has-inline-color">Colorful</mark> <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color">and</mark> <mark style="background-color:rgba(0, 0, 0, 0);color:#00870b" class="has-inline-color">playful</mark>.</h3>
 <!-- /wp:heading -->
 
@@ -7751,8 +7751,8 @@ Aut aliquam repudiandae iure corporis. Ut delectus neque et nobis iure et deleni
 <div class="wp-block-group alignfull is-style-column-box-shadow" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--x-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:micemade/product {"id":"c02cbc78-599c-46b7-9445-d7dcb3aa653a","savedLayouts":"{\u0022Desktop\u0022:[{\u0022w\u0022:42,\u0022h\u0022:54,\u0022x\u0022:0,\u0022y\u0022:0,\u0022i\u0022:\u0022item-3\u0022},{\u0022w\u0022:4,\u0022h\u0022:6,\u0022x\u0022:1,\u0022y\u0022:1,\u0022i\u0022:\u0022item-5\u0022},{\u0022w\u0022:26,\u0022h\u0022:9,\u0022x\u0022:30,\u0022y\u0022:7,\u0022i\u0022:\u0022item-0\u0022},{\u0022w\u0022:31,\u0022h\u0022:4,\u0022x\u0022:0,\u0022y\u0022:33,\u0022i\u0022:\u0022item-6\u0022},{\u0022w\u0022:18,\u0022h\u0022:5,\u0022x\u0022:38,\u0022y\u0022:22,\u0022i\u0022:\u0022item-1\u0022},{\u0022w\u0022:21,\u0022h\u0022:13,\u0022x\u0022:35,\u0022y\u0022:27,\u0022i\u0022:\u0022item-4\u0022},{\u0022w\u0022:17,\u0022h\u0022:6,\u0022x\u0022:39,\u0022y\u0022:16,\u0022i\u0022:\u0022item-2\u0022},{\u0022w\u0022:18,\u0022h\u0022:3,\u0022x\u0022:38,\u0022y\u0022:40,\u0022i\u0022:\u0022item-7\u0022}],\u0022Tablet\u0022:[{\u0022w\u0022:23,\u0022h\u0022:11,\u0022x\u0022:25,\u0022y\u0022:23,\u0022i\u0022:\u0022item-4\u0022},{\u0022w\u0022:24,\u0022h\u0022:3,\u0022x\u0022:1,\u0022y\u0022:28,\u0022i\u0022:\u0022item-6\u0022},{\u0022w\u0022:23,\u0022h\u0022:10,\u0022x\u0022:25,\u0022y\u0022:4,\u0022i\u0022:\u0022item-0\u0022},{\u0022w\u0022:25,\u0022h\u0022:3,\u0022x\u0022:0,\u0022y\u0022:31,\u0022i\u0022:\u0022item-7\u0022},{\u0022w\u0022:31,\u0022h\u0022:37,\u0022x\u0022:0,\u0022y\u0022:0,\u0022i\u0022:\u0022item-3\u0022},{\u0022w\u0022:4,\u0022h\u0022:4,\u0022x\u0022:1,\u0022y\u0022:1,\u0022i\u0022:\u0022item-5\u0022},{\u0022w\u0022:23,\u0022h\u0022:4,\u0022x\u0022:25,\u0022y\u0022:19,\u0022i\u0022:\u0022item-2\u0022},{\u0022w\u0022:23,\u0022h\u0022:5,\u0022x\u0022:25,\u0022y\u0022:14,\u0022i\u0022:\u0022item-1\u0022}],\u0022Mobile\u0022:[{\u0022w\u0022:19,\u0022h\u0022:5,\u0022x\u0022:17,\u0022y\u0022:26,\u0022i\u0022:\u0022item-2\u0022},{\u0022w\u0022:36,\u0022h\u0022:3,\u0022x\u0022:0,\u0022y\u0022:18,\u0022i\u0022:\u0022item-6\u0022},{\u0022w\u0022:6,\u0022h\u0022:4,\u0022x\u0022:30,\u0022y\u0022:0,\u0022i\u0022:\u0022item-5\u0022},{\u0022w\u0022:36,\u0022h\u0022:5,\u0022x\u0022:0,\u0022y\u0022:21,\u0022i\u0022:\u0022item-0\u0022},{\u0022w\u0022:36,\u0022h\u0022:21,\u0022x\u0022:0,\u0022y\u0022:0,\u0022i\u0022:\u0022item-3\u0022},{\u0022w\u0022:36,\u0022h\u0022:8,\u0022x\u0022:0,\u0022y\u0022:31,\u0022i\u0022:\u0022item-4\u0022},{\u0022w\u0022:17,\u0022h\u0022:5,\u0022x\u0022:0,\u0022y\u0022:26,\u0022i\u0022:\u0022item-1\u0022},{\u0022w\u0022:36,\u0022h\u0022:3,\u0022x\u0022:0,\u0022y\u0022:39,\u0022i\u0022:\u0022item-7\u0022}]}","startLayout":"none","querySettings":{"id":{"value":2581,"label":"Olive green hoodie for winter","mediaId":2505},"per_page":false,"ordering":false,"category":false},"itemZindexes":{"item-0":"2","item-1":"2","item-2":"2","item-3":"1","item-4":"2","item-5":"3","item-6":"3","item-7":"4"},"globalSettings":{"color":"","backColor":"#e051d5","padding":{"top":"0.5em","left":"0.5em","right":"0.5em","bottom":"0.5em"},"border":{"width":"0px","color":"rgba(50,50,50,0.8)","style":"solid"},"radius":"16px","boxShadow":"0px 0px 30px #e051d473 ","contentShadow":"0px 0px 0px #0000001A "},"productElementSettings":{"titleStyle":{"color":"#fff49e","backColor":"#e051d5","fluidFont":{"min":"1.2","max":"1.5"},"padding":{"top":"0.5em","left":"0.5em","right":"0.5em","bottom":"0.5em"},"border":{"width":"0px","color":"rgba(50,50,50,0.8)","style":"solid"},"radius":"16px","boxShadow":"0px 0px 30px #e051d473 ","contentShadow":"0px 0px 0px #0000001A ","align":"center","valign":"center"},"priceStyle":{"color":"#fff49e","fluidFont":{"min":"1.1","max":"1.5"},"padding":{"top":"0.5em","left":"0.5em","right":"0.5em","bottom":"0.5em"},"border":{"width":"0px","style":"none"},"radius":"16px","boxShadow":"0px 0px 30px #e051d473 ","contentShadow":"0px 0px 0px #0000001A ","align":"center","valign":"center","backColor":"#e051d5"},"excerptStyle":{"color":"#fff49e","fluidFont":{"min":"0.9","max":"1"},"padding":{"top":"0.5em","left":"0.5em","right":"0.5em","bottom":"0.5em"},"border":{"width":"0px","color":"rgba(50,50,50,0.8)","style":"solid"},"radius":"16px","boxShadow":"0px 0px 30px #e051d473 ","contentShadow":"0px 0px 0px #0000001A ","align":"center","valign":"center","truncate":true,"truncateLines":3,"backColor":"#e051d5"},"imageStyle":{"overlay":"","overlayOpacity":0.45,"overlayBlendMode":"normal","border":{"width":"0px","color":"rgba(50,50,50,0.8)","style":"solid"},"radius":"16px","boxShadow":"0px 0px 30px #e051d473 "},"addToCartStyle":{"fluidFont":{"min":"0.9","max":"1"},"padding":{"top":"0.5em","left":"0.5em","right":"0.5em","bottom":"0.5em"},"border":{"width":"0px","color":"rgba(50,50,50,0.8)","style":"solid"},"radius":"16px","boxShadow":"0px 0px 30px #e051d473 ","contentShadow":"0px 0px 0px #0000001A ","align":"center","valign":"center","backColor":"#e051d5","customAddToCart":true,"classNames":["wp-element-button"]},"saleBadgeStyle":{"buttonColor":"#c743d3","fluidFont":{"min":"0.7","max":"1"},"contentShadow":"0px 0px 0px #0000001A ","shape":"circle"},"ratingStyle":{"size":"80px","align":"center","valign":"center","backColor":"#e051d5"},"categoriesStyle":{"color":"","buttonColor":"#e9e9e9","backColor":"#e051d5","fluidFont":{"min":"0.8","max":"0.9"},"align":"center","valign":"center","radius":"16px"},"elements":[{"i":"item-0","id":"title","name":"Title","visible":["Desktop","Tablet","Mobile"],"sort":false,"inGroup":""},{"i":"item-1","id":"price","name":"Price","visible":["Desktop","Tablet","Mobile"],"sort":false,"inGroup":""},{"i":"item-2","id":"addToCart","name":"Add to cart","visible":["Desktop","Tablet","Mobile"],"sort":false},{"i":"item-3","id":"image","name":"Image","visible":["Desktop","Tablet","Mobile"],"sort":false},{"i":"item-4","id":"excerpt","name":"Excerpt","visible":["Desktop","Tablet","Mobile"],"sort":false},{"i":"item-5","id":"saleBadge","name":"Sale badge","visible":["Desktop","Tablet","Mobile"],"sort":false},{"i":"item-6","id":"rating","name":"Rating","visible":["Desktop","Tablet","Mobile"],"sort":false},{"i":"item-7","id":"categories","name":"Categories","visible":["Desktop","Tablet","Mobile"],"sort":false}],"group-1Style":{"align":"center","valign":"center","backColor":"#ffffff","padding":{"top":"0.5em","left":"0.5em","right":"0.5em","bottom":"0.5em"},"border":{"width":"1px","color":"rgba(200,200,200,0.8)","style":"solid"},"radius":"0px","boxShadow":"0px 0px 0px #0000001A","gap":"5px"}},"align":"wide"} /--></div>
 <!-- /wp:group -->
 
-<!-- wp:cover {"url":"http://localhost:8882/wp-content/uploads/2024/11/circles-background.jpeg","id":2692,"hasParallax":true,"dimRatio":40,"overlayColor":"primary-alt","isUserOverlayColor":true,"isDark":false,"align":"full","className":"is-style-blur-image-more","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull is-light has-parallax is-style-blur-image-more" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--x-large);padding-left:var(--wp--preset--spacing--medium)"><span aria-hidden="true" class="wp-block-cover__background has-primary-alt-background-color has-background-dim-40 has-background-dim"></span><div class="wp-block-cover__image-background wp-image-2692 has-parallax" style="background-position:50% 50%;background-image:url(http://localhost:8882/wp-content/uploads/2024/11/circles-background.jpeg)"></div><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","level":3,"className":"has-custom-font","style":{"typography":{"fontSize":"2.2em"}},"fontFamily":"chelsea-market"} -->
+<!-- wp:cover {"url":"https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/circles-background.jpeg","id":2692,"hasParallax":true,"dimRatio":40,"overlayColor":"primary-alt","isUserOverlayColor":true,"isDark":false,"align":"full","className":"is-style-blur-image-more","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull is-light has-parallax is-style-blur-image-more" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--x-large);padding-left:var(--wp--preset--spacing--medium)"><span aria-hidden="true" class="wp-block-cover__background has-primary-alt-background-color has-background-dim-40 has-background-dim"></span><div class="wp-block-cover__image-background wp-image-2692 has-parallax" style="background-position:50% 50%;background-image:url(https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/circles-background.jpeg)"></div><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","level":3,"className":"has-custom-font","style":{"typography":{"fontSize":"2.2em"}},"fontFamily":"chelsea-market"} -->
 <h3 class="wp-block-heading has-text-align-center has-custom-font has-chelsea-market-font-family" style="font-size:2.2em"><mark style="background-color:rgba(0, 0, 0, 0);color:#d12c2c" class="has-inline-color">Colorful</mark> <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color">and</mark> <mark style="background-color:rgba(0, 0, 0, 0);color:#00870b" class="has-inline-color">playful</mark>.</h3>
 <!-- /wp:heading -->
 
@@ -7809,8 +7809,8 @@ Aut aliquam repudiandae iure corporis. Ut delectus neque et nobis iure et deleni
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"color":{"gradient":"linear-gradient(180deg,rgb(0,0,0) 0%,rgb(153,65,208) 9%,rgb(255,255,255) 17%)"},"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull has-background" style="background:linear-gradient(180deg,rgb(0,0,0) 0%,rgb(153,65,208) 9%,rgb(255,255,255) 17%)"><!-- wp:group {"metadata":{"name":"Intro","categories":["ollie-hero","intro"],"patternName":"core/block/2804"},"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"blockGap":"0","padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained","justifyContent":"center"}} -->
-<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-right:0;padding-left:0"><!-- wp:cover {"url":"http://localhost:8882/wp-content/uploads/2024/11/Product-layout-graphics.png","id":2992,"hasParallax":true,"isRepeated":true,"isUserOverlayColor":true,"minHeight":319,"minHeightUnit":"px","customGradient":"radial-gradient(rgba(21,17,31,0.78) 32%,rgba(10,6,6,0.87) 100%)","align":"full","className":"is-style-default","style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"},"margin":{"top":"0","bottom":"0"},"blockGap":"0"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull has-parallax is-repeated is-style-default" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--medium);min-height:319px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:radial-gradient(rgba(21,17,31,0.78) 32%,rgba(10,6,6,0.87) 100%)"></span><div class="wp-block-cover__image-background wp-image-2992 has-parallax is-repeated" style="background-position:50% 50%;background-image:url(http://localhost:8882/wp-content/uploads/2024/11/Product-layout-graphics.png)"></div><div class="wp-block-cover__inner-container"><!-- wp:group {"metadata":{"name":"Cover content"},"align":"wide","style":{"position":{"type":""},"spacing":{"blockGap":"var:preset|spacing|small","margin":{"bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|border-light"}}}},"textColor":"border-light","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-right:0;padding-left:0"><!-- wp:cover {"url":"https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/Product-layout-graphics.png","id":2992,"hasParallax":true,"isRepeated":true,"isUserOverlayColor":true,"minHeight":319,"minHeightUnit":"px","customGradient":"radial-gradient(rgba(21,17,31,0.78) 32%,rgba(10,6,6,0.87) 100%)","align":"full","className":"is-style-default","style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"},"margin":{"top":"0","bottom":"0"},"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull has-parallax is-repeated is-style-default" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--medium);min-height:319px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:radial-gradient(rgba(21,17,31,0.78) 32%,rgba(10,6,6,0.87) 100%)"></span><div class="wp-block-cover__image-background wp-image-2992 has-parallax is-repeated" style="background-position:50% 50%;background-image:url(https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2024/11/Product-layout-graphics.png)"></div><div class="wp-block-cover__inner-container"><!-- wp:group {"metadata":{"name":"Cover content"},"align":"wide","style":{"position":{"type":""},"spacing":{"blockGap":"var:preset|spacing|small","margin":{"bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|border-light"}}}},"textColor":"border-light","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide has-border-light-color has-text-color has-link-color" style="margin-bottom:0"><!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center">Create flexible, free-form, and creative layouts for WooCommerce</p>
 <!-- /wp:paragraph -->
@@ -12710,8 +12710,8 @@ Aliquam natus necessitatibus numquam pariatur. Similique expedita qui quibusdam 
 		<dc:creator><![CDATA[alensirola69]]></dc:creator>
 		<guid isPermaLink="false">https://micemade.com/2022/11/11/index/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"http://localhost:8882/wp-content/uploads/2022/09/wp-cli-delete-old-posts.png","id":1101,"dimRatio":40,"overlayColor":"brown","style":{"color":{"duotone":["#000000","rgb(255, 125, 47)"]}}} -->
-<div class="wp-block-cover"><span aria-hidden="true" class="wp-block-cover__background has-brown-background-color has-background-dim-40 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-1101" alt="" src="http://localhost:8882/wp-content/uploads/2022/09/wp-cli-delete-old-posts.png" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:group -->
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2022/09/wp-cli-delete-old-posts.png","id":1101,"dimRatio":40,"overlayColor":"brown","style":{"color":{"duotone":["#000000","rgb(255, 125, 47)"]}}} -->
+<div class="wp-block-cover"><span aria-hidden="true" class="wp-block-cover__background has-brown-background-color has-background-dim-40 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-1101" alt="" src="https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2022/09/wp-cli-delete-old-posts.png" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:template-part {"slug":"header","theme":"rainfall"} /-->
 
 <!-- wp:group {"layout":{"type":"constrained"}} -->
@@ -14742,8 +14742,8 @@ Aliquam natus necessitatibus numquam pariatur. Similique expedita qui quibusdam 
 		<dc:creator><![CDATA[alensirola69]]></dc:creator>
 		<guid isPermaLink="false">https://micemade.com/2023/06/28/header/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"http://localhost:8882/wp-content/uploads/2023/06/pexels-photo-6585788.jpeg","id":1579,"dimRatio":80,"focalPoint":{"x":0.59,"y":0.42},"minHeight":15,"minHeightUnit":"vw","customGradient":"linear-gradient(180deg,rgb(0,0,71) 0%,rgb(0,61,166) 100%)","contentPosition":"center center","align":"full","textColor":"background","className":"is-style-default","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull is-style-default has-background-color has-text-color" style="min-height:15vw"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-80 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgb(0,0,71) 0%,rgb(0,61,166) 100%)"></span><img class="wp-block-cover__image-background wp-image-1579" alt="" src="http://localhost:8882/wp-content/uploads/2023/06/pexels-photo-6585788.jpeg" style="object-position:59% 42%" data-object-fit="cover" data-object-position="59% 42%" /><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"4vw","bottom":"4vw"},"blockGap":"0"}},"layout":{"type":"flex","justifyContent":"space-between","orientation":"horizontal"}} -->
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2023/06/pexels-photo-6585788.jpeg","id":1579,"dimRatio":80,"focalPoint":{"x":0.59,"y":0.42},"minHeight":15,"minHeightUnit":"vw","customGradient":"linear-gradient(180deg,rgb(0,0,71) 0%,rgb(0,61,166) 100%)","contentPosition":"center center","align":"full","textColor":"background","className":"is-style-default","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull is-style-default has-background-color has-text-color" style="min-height:15vw"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-80 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgb(0,0,71) 0%,rgb(0,61,166) 100%)"></span><img class="wp-block-cover__image-background wp-image-1579" alt="" src="https://raw.githubusercontent.com/Micemade/playground/refs/heads/main/media/mpl-playground/2023/06/pexels-photo-6585788.jpeg" style="object-position:59% 42%" data-object-fit="cover" data-object-position="59% 42%" /><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"4vw","bottom":"4vw"},"blockGap":"0"}},"layout":{"type":"flex","justifyContent":"space-between","orientation":"horizontal"}} -->
 <div class="wp-block-group alignwide" style="padding-top:4vw;padding-bottom:4vw"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"flex"}} -->
 <div class="wp-block-group" style="margin-top:0;margin-bottom:0"><!-- wp:site-logo {"width":60} /-->
 

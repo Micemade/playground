@@ -38,7 +38,7 @@
 			"step": "importWxr",
 			"file": {
 				"resource": "url",
-				"url": "https://raw.githubusercontent.com/Micemade/playground/main/WXR-imports/micemade.com.demo.mpl.xml"
+				"url": "https://raw.githubusercontent.com/Micemade/playground/main/WXR-imports/mpl-playground.xml"
 			}
 		},
 		{
