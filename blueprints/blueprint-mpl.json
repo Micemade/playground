@@ -44,6 +44,31 @@
 		{
 			"step": "runPHP",
 			"code": "<?php include 'wordpress/wp-load.php'; delete_transient( '_wc_activation_redirect' );"
+		},
+		{
+			"step": "setSiteOptions",
+			"options": {
+				"blogname":"MPL playground",
+				"woocommerce_store_city":"Rijeka",
+				"woocommerce_store_address":"123 Main Street",
+				"woocommerce_store_postcode":"51000",
+				"woocommerce_default_country":"Croatia",
+				"woocommerce_onboarding_profile":{
+					"skipped": true
+				},
+				"woocommerce_currency": "EUR",
+				"woocommerce_weight_unit": "kg",
+				"woocommerce_dimension_unit": "cm",
+				"woocommerce_allow_tracking": "no",
+				"woocommerce_cheque_settings": {
+					"enabled": "yes"
+				}
+			}
+		},
+		{
+			"step": "writeFile",
+			"path": "/wordpress/wp-content/mu-plugins/rewrite.php",
+			"data": "<?php /* Use pretty permalinks*/ add_action( 'after_setup_theme', function() { global $wp_rewrite: $wp_rewrite->set_permalink_structure( '/%postname%/' ); $wp_rewrite->flush_rules(); } );"
 		}
 	]
 }
