@@ -38,7 +38,7 @@
 			"step": "importWxr",
 			"file": {
 				"resource": "url",
-				"url": "https://raw.githubusercontent.com/Micemade/playground/main/WXR-imports/mpl-playground.xml"
+				"url": "https://raw.githubusercontent.com/woocommerce/woocommerce/refs/heads/trunk/plugins/woocommerce/sample-data/sample_products.xml"
 			}
 		},
 		{
