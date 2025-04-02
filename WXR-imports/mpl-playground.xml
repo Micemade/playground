@@ -403,7 +403,7 @@ content. -->
 		<generator>https://wordpress.org/?v=6.7.2</generator>
 
 		<image>
-			<url>https://micemade.com/wp-content/uploads/2023/06/micemade-logo-2023-1-100x100.png</url>
+			<url>https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2023/06/micemade-logo-2023-1-100x100.png</url>
 			<title>MPL Playground</title>
 			<link>http://localhost:8882</link>
 			<width>32</width>
@@ -434,7 +434,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2023/06/micemade-logo-2023.png]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2023/06/micemade-logo-2023.png]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2023/06/micemade-logo-2023.png]]></wp:meta_value>
@@ -468,7 +468,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2023/06/micemade-logo-2023-1.png]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2023/06/micemade-logo-2023-1.png]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2023/06/micemade-logo-2023-1.png]]></wp:meta_value>
@@ -484,7 +484,7 @@ content. -->
 			<pubDate>Wed, 06 Nov 2024 15:03:33 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woocommerce-placeholder.png</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woocommerce-placeholder.png</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -502,7 +502,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/woocommerce-placeholder.png]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/woocommerce-placeholder.png]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[woocommerce-placeholder.png]]></wp:meta_value>
@@ -518,7 +518,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:24 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/audio-monitor-01.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/audio-monitor-01.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -536,7 +536,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/audio-monitor-01.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/audio-monitor-01.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/audio-monitor-01.jpg]]></wp:meta_value>
@@ -552,7 +552,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:25 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/audio-monitor-02.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/audio-monitor-02.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -570,7 +570,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/audio-monitor-02.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/audio-monitor-02.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/audio-monitor-02.jpg]]></wp:meta_value>
@@ -586,7 +586,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:26 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/audio-monitor-03.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/audio-monitor-03.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -604,7 +604,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/audio-monitor-03.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/audio-monitor-03.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/audio-monitor-03.jpg]]></wp:meta_value>
@@ -620,7 +620,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:28 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/audio-podcast-01.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/audio-podcast-01.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -638,7 +638,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/audio-podcast-01.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/audio-podcast-01.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/audio-podcast-01.jpg]]></wp:meta_value>
@@ -654,7 +654,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:29 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/audio-podcast-02.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/audio-podcast-02.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -672,7 +672,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/audio-podcast-02.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/audio-podcast-02.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/audio-podcast-02.jpg]]></wp:meta_value>
@@ -688,7 +688,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:30 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/cosmetic-01.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-01.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -706,7 +706,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/cosmetic-01.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-01.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/cosmetic-01.jpg]]></wp:meta_value>
@@ -722,7 +722,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:31 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/cosmetic-02.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-02.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -740,7 +740,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/cosmetic-02.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-02.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/cosmetic-02.jpg]]></wp:meta_value>
@@ -756,7 +756,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:32 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/cosmetic-03.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-03.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -774,7 +774,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/cosmetic-03.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-03.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/cosmetic-03.jpg]]></wp:meta_value>
@@ -790,7 +790,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:33 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/cosmetic-04.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-04.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -808,7 +808,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/cosmetic-04.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-04.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/cosmetic-04.jpg]]></wp:meta_value>
@@ -824,7 +824,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:34 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/cosmetic-05.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-05.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -842,7 +842,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/cosmetic-05.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-05.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/cosmetic-05.jpg]]></wp:meta_value>
@@ -858,7 +858,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:35 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/cosmetic-06.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-06.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -876,7 +876,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/cosmetic-06.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-06.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/cosmetic-06.jpg]]></wp:meta_value>
@@ -892,7 +892,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:36 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/cosmetic-07.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-07.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -910,7 +910,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/cosmetic-07.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-07.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/cosmetic-07.jpg]]></wp:meta_value>
@@ -926,7 +926,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:42 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/cosmetic-group-06.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-group-06.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -944,7 +944,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/cosmetic-group-06.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-group-06.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/cosmetic-group-06.jpg]]></wp:meta_value>
@@ -960,7 +960,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:44 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/cosmetic-group-07.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-group-07.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -978,7 +978,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/cosmetic-group-07.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-group-07.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/cosmetic-group-07.jpg]]></wp:meta_value>
@@ -994,7 +994,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:45 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/cosmetic-group-08.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-group-08.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1012,7 +1012,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/cosmetic-group-08.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/cosmetic-group-08.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/cosmetic-group-08.jpg]]></wp:meta_value>
@@ -1028,7 +1028,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:46 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/footwear-01.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/footwear-01.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1046,7 +1046,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/footwear-01.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/footwear-01.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/footwear-01.jpg]]></wp:meta_value>
@@ -1062,7 +1062,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:47 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/footwear-02.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/footwear-02.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1080,7 +1080,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/footwear-02.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/footwear-02.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/footwear-02.jpg]]></wp:meta_value>
@@ -1096,7 +1096,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:48 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/footwear-03.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/footwear-03.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1114,7 +1114,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/footwear-03.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/footwear-03.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/footwear-03.jpg]]></wp:meta_value>
@@ -1130,7 +1130,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:50 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/footwear-04.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/footwear-04.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1148,7 +1148,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/footwear-04.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/footwear-04.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/footwear-04.jpg]]></wp:meta_value>
@@ -1164,7 +1164,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:51 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/footwear-sport-01.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/footwear-sport-01.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1182,7 +1182,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/footwear-sport-01.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/footwear-sport-01.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/footwear-sport-01.jpg]]></wp:meta_value>
@@ -1198,7 +1198,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:52 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/footwear-sport-02.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/footwear-sport-02.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1216,7 +1216,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/footwear-sport-02.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/footwear-sport-02.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/footwear-sport-02.jpg]]></wp:meta_value>
@@ -1232,7 +1232,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:53 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/footwear-sport-03.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/footwear-sport-03.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1250,7 +1250,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/footwear-sport-03.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/footwear-sport-03.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/footwear-sport-03.jpg]]></wp:meta_value>
@@ -1266,7 +1266,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:55 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/furniture-01.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-01.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1284,7 +1284,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/furniture-01.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-01.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/furniture-01.jpg]]></wp:meta_value>
@@ -1300,7 +1300,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:57 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/furniture-02.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-02.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1318,7 +1318,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/furniture-02.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-02.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/furniture-02.jpg]]></wp:meta_value>
@@ -1334,7 +1334,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:09:58 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/furniture-03.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-03.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1352,7 +1352,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/furniture-03.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-03.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/furniture-03.jpg]]></wp:meta_value>
@@ -1368,7 +1368,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:00 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/furniture-04.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-04.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1386,7 +1386,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/furniture-04.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-04.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/furniture-04.jpg]]></wp:meta_value>
@@ -1402,7 +1402,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:01 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/furniture-05.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-05.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1420,7 +1420,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/furniture-05.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-05.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/furniture-05.jpg]]></wp:meta_value>
@@ -1436,7 +1436,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:02 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/furniture-06.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-06.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1454,7 +1454,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/furniture-06.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-06.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/furniture-06.jpg]]></wp:meta_value>
@@ -1470,7 +1470,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:04 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/furniture-07.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-07.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1488,7 +1488,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/furniture-07.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-07.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/furniture-07.jpg]]></wp:meta_value>
@@ -1504,7 +1504,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:05 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/furniture-08.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-08.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1522,7 +1522,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/furniture-08.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-08.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/furniture-08.jpg]]></wp:meta_value>
@@ -1538,7 +1538,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:06 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/male-casual-01.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-casual-01.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1556,7 +1556,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/male-casual-01.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-casual-01.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/male-casual-01.jpg]]></wp:meta_value>
@@ -1572,7 +1572,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:08 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/male-casual-02.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-casual-02.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1590,7 +1590,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/male-casual-02.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-casual-02.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/male-casual-02.jpg]]></wp:meta_value>
@@ -1606,7 +1606,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:09 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/male-casual-03.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-casual-03.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1624,7 +1624,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/male-casual-03.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-casual-03.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/male-casual-03.jpg]]></wp:meta_value>
@@ -1640,7 +1640,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:10 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/male-casual-04.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-casual-04.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1658,7 +1658,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/male-casual-04.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-casual-04.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/male-casual-04.jpg]]></wp:meta_value>
@@ -1674,7 +1674,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:11 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/male-casual-05.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-casual-05.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1692,7 +1692,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/male-casual-05.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-casual-05.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/male-casual-05.jpg]]></wp:meta_value>
@@ -1708,7 +1708,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:12 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/male-casual-06.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-casual-06.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1726,7 +1726,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/male-casual-06.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-casual-06.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/male-casual-06.jpg]]></wp:meta_value>
@@ -1742,7 +1742,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:13 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/male-sport-01.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-sport-01.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1760,7 +1760,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/male-sport-01.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-sport-01.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/male-sport-01.jpg]]></wp:meta_value>
@@ -1776,7 +1776,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:14 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/male-sport-02.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-sport-02.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[{"prompt":"A dynamic male model showcases an array of vibrant athletic wear designed for an online retail platform. He stands confidently against a minimalist backdrop, emphasizing the contours and functionality of the sports clothing. The studio lighting bathes the scene in a bright, energetic glow, highlighting the fabric's texture and movement. The color palette features a mix of bold hues, adding a lively touch that embodies an active lifestyle. The overall ambiance radiates motivation and contemporary style, perfect for attracting fitness enthusiasts seeking fashionable workout attire.nnMale model wearing sports clothing image for a online shop. Simple background. Studio lighting.","originalPrompt":"Male model wearing sports clothing image for a online shop. Simple background. Studio lighting.","width":1024,"height":1024,"seed":43,"model":"flux","refine":false,"nologo":true,"negative_prompt":"worst quality, blurry","nofeed":true,"has_nsfw_concept":false,"concept":{"special_scores":{"0":-0.10100000351667404,"1":-0.052000001072883606,"2":-0.09700000286102295},"special_care":[],"concept_scores":{"0":-0.04699999839067459,"1":-0.06400000303983688,"2":-0.05000000074505806,"3":-0.0430000014603138,"4":-0.07699999958276749,"5":-0.07000000029802322,"6":-0.05900000035762787,"7":-0.03799999877810478,"8":-0.04699999839067459,"9":-0.13199999928474426,"10":-0.06700000166893005,"11":-0.0689999982714653,"12":-0.050999999046325684,"13":-0.08500000089406967,"14":-0.09300000220537186,"15":-0.12800000607967377,"16":-0.10400000214576721},"bad_concepts":[]}}]]></excerpt:encoded>
@@ -1794,7 +1794,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/male-sport-02.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-sport-02.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/male-sport-02.jpg]]></wp:meta_value>
@@ -1810,7 +1810,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:15 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/male-sport-03.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-sport-03.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1828,7 +1828,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/male-sport-03.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-sport-03.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/male-sport-03.jpg]]></wp:meta_value>
@@ -1844,7 +1844,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:17 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/male-sport-04.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-sport-04.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1862,7 +1862,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/male-sport-04.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-sport-04.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/male-sport-04.jpg]]></wp:meta_value>
@@ -1878,7 +1878,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:18 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/male-sport-05.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-sport-05.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[{"prompt":"A dynamic male model is captured in a vibrant advertisement for an online athletic wear store, showcasing a modern and stylish jogging outfit. The setting features a minimalist studio backdrop, utilizing soft, diffused lighting that accentuates the model's athletic physique and the detailed fabric of the apparel. The color palette highlights bold tones of the outfit, perhaps a striking cobalt blue or an energetic orange, creating an eye-catching contrast against the serene, neutral background. The overall atmosphere exudes energy and motivation, inviting viewers to envision an active lifestyle.nnMale model wearing jogging clothing image for a online shop. Simple background. Studio lighting.","originalPrompt":"Male model wearing jogging clothing image for a online shop. Simple background. Studio lighting.","width":1024,"height":1024,"seed":43,"model":"flux","refine":false,"nologo":true,"negative_prompt":"worst quality, blurry","nofeed":true,"has_nsfw_concept":false,"concept":{"special_scores":{"0":-0.06599999964237213,"1":-0.03500000014901161,"2":-0.06199999898672104},"special_care":[],"concept_scores":{"0":-0.023000000044703484,"1":-0.01600000075995922,"2":-0.023000000044703484,"3":-0.01600000075995922,"4":-0.039000000804662704,"5":-0.017000000923871994,"6":-0.03099999949336052,"7":-0.013000000268220901,"8":-0.010999999940395355,"9":-0.07900000363588333,"10":-0.057999998331069946,"11":-0.0430000014603138,"12":-0.029999999329447746,"13":-0.013000000268220901,"14":-0.01899999938905239,"15":-0.052000001072883606,"16":-0.054999999701976776},"bad_concepts":[]}}]]></excerpt:encoded>
@@ -1896,7 +1896,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/male-sport-05.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-sport-05.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/male-sport-05.jpg]]></wp:meta_value>
@@ -1912,7 +1912,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:19 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/male-sport-06.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-sport-06.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1930,7 +1930,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/male-sport-06.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-sport-06.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/male-sport-06.jpg]]></wp:meta_value>
@@ -1946,7 +1946,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:21 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/male-sport-07.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-sport-07.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1964,7 +1964,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/male-sport-07.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-sport-07.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/male-sport-07.jpg]]></wp:meta_value>
@@ -1980,7 +1980,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:22 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/male-sport-08.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-sport-08.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1998,7 +1998,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/male-sport-08.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-sport-08.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/male-sport-08.jpg]]></wp:meta_value>
@@ -2014,7 +2014,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:24 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/male-sport-09.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-sport-09.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2032,7 +2032,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/male-sport-09.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/male-sport-09.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/male-sport-09.jpg]]></wp:meta_value>
@@ -2048,7 +2048,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:25 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/sport-clothes-01.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/sport-clothes-01.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2066,7 +2066,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/sport-clothes-01.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/sport-clothes-01.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/sport-clothes-01.jpg]]></wp:meta_value>
@@ -2082,7 +2082,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:26 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/sport-clothes-02.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/sport-clothes-02.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2100,7 +2100,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/sport-clothes-02.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/sport-clothes-02.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/sport-clothes-02.jpg]]></wp:meta_value>
@@ -2116,7 +2116,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:28 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/sport-clothes-03.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/sport-clothes-03.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2134,7 +2134,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/sport-clothes-03.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/sport-clothes-03.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/sport-clothes-03.jpg]]></wp:meta_value>
@@ -2150,7 +2150,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:29 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/sport-clothes-04.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/sport-clothes-04.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2168,7 +2168,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/sport-clothes-04.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/sport-clothes-04.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/sport-clothes-04.jpg]]></wp:meta_value>
@@ -2184,7 +2184,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:31 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-casual-01.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-casual-01.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2202,7 +2202,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-casual-01.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-casual-01.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-casual-01.jpg]]></wp:meta_value>
@@ -2218,7 +2218,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:34 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-casual-02.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-casual-02.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2236,7 +2236,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-casual-02.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-casual-02.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-casual-02.jpg]]></wp:meta_value>
@@ -2252,7 +2252,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:36 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-casual-03.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-casual-03.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2270,7 +2270,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-casual-03.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-casual-03.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-casual-03.jpg]]></wp:meta_value>
@@ -2286,7 +2286,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:38 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-casual-04.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-casual-04.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2304,7 +2304,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-casual-04.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-casual-04.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-casual-04.jpg]]></wp:meta_value>
@@ -2320,7 +2320,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:40 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-casual-5.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-casual-5.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2338,7 +2338,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-casual-5.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-casual-5.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-casual-5.jpg]]></wp:meta_value>
@@ -2354,7 +2354,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:42 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-fashion-01.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-fashion-01.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2372,7 +2372,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-fashion-01.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-fashion-01.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-fashion-01.jpg]]></wp:meta_value>
@@ -2388,7 +2388,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:44 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-fashion-02.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-fashion-02.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2406,7 +2406,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-fashion-02.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-fashion-02.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-fashion-02.jpg]]></wp:meta_value>
@@ -2422,7 +2422,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:45 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-fashion-03.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-fashion-03.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2440,7 +2440,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-fashion-03.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-fashion-03.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-fashion-03.jpg]]></wp:meta_value>
@@ -2456,7 +2456,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:48 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-sport-01.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-01.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2474,7 +2474,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-sport-01.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-01.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-sport-01.jpg]]></wp:meta_value>
@@ -2490,7 +2490,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:50 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-sport-02.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-02.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2508,7 +2508,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-sport-02.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-02.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-sport-02.jpg]]></wp:meta_value>
@@ -2524,7 +2524,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:52 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-sport-03.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-03.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2542,7 +2542,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-sport-03.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-03.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-sport-03.jpg]]></wp:meta_value>
@@ -2558,7 +2558,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:54 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-sport-04.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-04.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2576,7 +2576,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-sport-04.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-04.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-sport-04.jpg]]></wp:meta_value>
@@ -2592,7 +2592,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:56 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-sport-05.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-05.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2610,7 +2610,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-sport-05.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-05.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-sport-05.jpg]]></wp:meta_value>
@@ -2626,7 +2626,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:57 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-sport-06.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-06.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2644,7 +2644,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-sport-06.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-06.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-sport-06.jpg]]></wp:meta_value>
@@ -2660,7 +2660,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:10:59 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-sport-07.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-07.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2678,7 +2678,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-sport-07.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-07.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-sport-07.jpg]]></wp:meta_value>
@@ -2694,7 +2694,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:11:01 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-sport-08.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-08.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2712,7 +2712,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-sport-08.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-08.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-sport-08.jpg]]></wp:meta_value>
@@ -2728,7 +2728,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:11:03 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-sport-09.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-09.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2746,7 +2746,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-sport-09.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-09.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-sport-09.jpg]]></wp:meta_value>
@@ -2762,7 +2762,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:11:04 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-sport-10.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-10.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2780,7 +2780,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-sport-10.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-10.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-sport-10.jpg]]></wp:meta_value>
@@ -2796,7 +2796,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:11:06 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-sport-11.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-11.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[{"prompt":"A dynamic female athlete striking a confident pose in sleek, modern sportswear designed for active lifestyles, showcased against an understated backdrop that emphasizes her vibrant energy. Bathed in crisp studio lighting, her outfit features bold colors and innovative designs that capture the spirit of contemporary athletic fashion. The soft shadows add depth, while the minimalistic setting ensures the focus remains on her expression of determination and strength, creating an inspiring visual for fitness enthusiasts shopping online.nnFemale model wearing sports clothing image for a online shop. Simple background. Studio lighting.","originalPrompt":"Female model wearing sports clothing image for a online shop. Simple background. Studio lighting.","width":1024,"height":1024,"seed":43,"model":"flux","refine":false,"nologo":true,"negative_prompt":"worst quality, blurry","nofeed":true,"has_nsfw_concept":false,"concept":{"special_scores":{"0":-0.05999999865889549,"1":-0.07199999690055847,"2":-0.05000000074505806},"special_care":[],"concept_scores":{"0":-0.04899999871850014,"1":-0.05299999937415123,"2":-0.04899999871850014,"3":-0.05000000074505806,"4":-0.07000000029802322,"5":-0.06199999898672104,"6":-0.05700000002980232,"7":-0.05999999865889549,"8":-0.029999999329447746,"9":-0.12300000339746475,"10":-0.08699999749660492,"11":-0.07599999755620956,"12":-0.05900000035762787,"13":-0.06499999761581421,"14":-0.06800000369548798,"15":-0.07800000160932541,"16":-0.05999999865889549},"bad_concepts":[]}}]]></excerpt:encoded>
@@ -2814,7 +2814,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-sport-11.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-11.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-sport-11.jpg]]></wp:meta_value>
@@ -2830,7 +2830,7 @@ content. -->
 			<pubDate>Thu, 07 Nov 2024 17:11:07 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/woman-sport-12.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-12.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[{"prompt":"Female black model wearing sports clothing image for a online shop. Simple background. Studio lighting.","originalPrompt":"Female black model wearing sports clothing image for a online shop. Simple background. Studio lighting.","width":1024,"height":1024,"seed":43,"model":"flux","refine":false,"nologo":true,"negative_prompt":"worst quality, blurry","nofeed":true,"has_nsfw_concept":false,"concept":{"special_scores":{"0":-0.04699999839067459,"1":-0.05000000074505806,"2":-0.04100000113248825},"special_care":[],"concept_scores":{"0":-0.04399999976158142,"1":-0.03700000047683716,"2":-0.04899999871850014,"3":-0.050999999046325684,"4":-0.04800000041723251,"5":-0.050999999046325684,"6":-0.06599999964237213,"7":-0.05900000035762787,"8":-0.023000000044703484,"9":-0.09399999678134918,"10":-0.050999999046325684,"11":-0.04100000113248825,"12":-0.04699999839067459,"13":-0.028999999165534973,"14":-0.03400000184774399,"15":-0.057999998331069946,"16":-0.03700000047683716},"bad_concepts":[]}}]]></excerpt:encoded>
@@ -2848,7 +2848,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/woman-sport-12.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-12.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/woman-sport-12.jpg]]></wp:meta_value>
@@ -2864,7 +2864,7 @@ content. -->
 			<pubDate>Sun, 10 Nov 2024 14:18:03 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/furniture-cabinet-01.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-cabinet-01.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2882,7 +2882,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/furniture-cabinet-01.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-cabinet-01.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/furniture-cabinet-01.jpg]]></wp:meta_value>
@@ -2898,7 +2898,7 @@ content. -->
 			<pubDate>Sun, 10 Nov 2024 14:18:05 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/furniture-couch-01.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-couch-01.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2916,7 +2916,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/furniture-couch-01.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-couch-01.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/furniture-couch-01.jpg]]></wp:meta_value>
@@ -2932,7 +2932,7 @@ content. -->
 			<pubDate>Sun, 10 Nov 2024 14:18:06 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/furniture-sofa-01.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-sofa-01.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2950,7 +2950,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/furniture-sofa-01.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-sofa-01.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/furniture-sofa-01.jpg]]></wp:meta_value>
@@ -2966,7 +2966,7 @@ content. -->
 			<pubDate>Sun, 10 Nov 2024 14:23:11 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/furniture-lamp-01.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-lamp-01.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2984,7 +2984,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/furniture-lamp-01.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-lamp-01.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/furniture-lamp-01.jpg]]></wp:meta_value>
@@ -3000,7 +3000,7 @@ content. -->
 			<pubDate>Sun, 10 Nov 2024 14:23:12 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/furniture-lamp-02.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-lamp-02.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3018,7 +3018,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/furniture-lamp-02.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-lamp-02.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/furniture-lamp-02.jpg]]></wp:meta_value>
@@ -3034,7 +3034,7 @@ content. -->
 			<pubDate>Sun, 10 Nov 2024 14:23:13 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/furniture-sofa-02.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-sofa-02.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3052,7 +3052,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/furniture-sofa-02.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/furniture-sofa-02.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/furniture-sofa-02.jpg]]></wp:meta_value>
@@ -3067,7 +3067,7 @@ content. -->
 			<link>http://localhost:8882/?attachment_id=2679</link>
 			<pubDate>Sun, 10 Nov 2024 18:18:39 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
-			<guid isPermaLink="false">https://micemade.com/wp-content/uploads/2024/11/toy-01.jpeg</guid>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/toy-01.jpeg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[{"prompt":"A beautifully composed product shot showcasing an individual children's toy, nestled against a minimalistic background that enhances its charm. The lighting is expertly managed, casting soft, flattering highlights that accentuate the toy's vibrant colors and intricate details. The toy, crafted with care, invites imagination and play, radiating a sense of warmth and joy. The studio environment is clean, with an elegant simplicity that draws attention to the toy as the focal point of the image, evoking feelings of nostalgia and wonder in viewers.nnA realistic shop catalog photo of single children toy.Simple background, photo studio lighting.","originalPrompt":"A realistic shop catalog photo of single children toy.Simple background, photo studio lighting.","width":1024,"height":1024,"seed":43,"model":"flux","refine":false,"nologo":true,"negative_prompt":"worst quality, blurry","nofeed":true,"has_nsfw_concept":false,"concept":{"special_scores":{"0":0.004999999888241291,"1":0.020999999716877937,"2":-0.014999999664723873},"special_care":[[0,0.004999999888241291],[0.020999999716877937,1]],"concept_scores":{"0":-0.050999999046325684,"1":-0.03200000151991844,"2":-0.04500000178813934,"3":-0.02500000037252903,"4":-0.028999999165534973,"5":-0.03700000047683716,"6":-0.04899999871850014,"7":-0.04500000178813934,"8":-0.0430000014603138,"9":-0.03799999877810478,"10":-0.04399999976158142,"11":-0.04500000178813934,"12":-0.06499999761581421,"13":-0.06599999964237213,"14":-0.09399999678134918,"15":-0.07500000298023224,"16":-0.05700000002980232},"bad_concepts":[]}}]]></excerpt:encoded>
@@ -3085,7 +3085,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/toy-01.jpeg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/toy-01.jpeg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/toy-01.jpeg]]></wp:meta_value>
@@ -3100,7 +3100,7 @@ content. -->
 			<link>http://localhost:8882/?attachment_id=2680</link>
 			<pubDate>Sun, 10 Nov 2024 18:18:40 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
-			<guid isPermaLink="false">https://micemade.com/wp-content/uploads/2024/11/toy-02.jpeg</guid>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/toy-02.jpeg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[{"prompt":"A realistic shop catalog photo of single children teddy bear toy.Simple colorful background, photo studio lighting.","originalPrompt":"A realistic shop catalog photo of single children teddy bear toy.Simple colorful background, photo studio lighting.","width":1024,"height":1024,"seed":43,"model":"flux","refine":false,"nologo":true,"negative_prompt":"worst quality, blurry","nofeed":true,"has_nsfw_concept":false,"concept":{"special_scores":{"0":0.0010000000474974513,"1":0.01600000075995922,"2":-0.01600000075995922},"special_care":[[0,0.0010000000474974513],[0.01600000075995922,1]],"concept_scores":{"0":-0.027000000700354576,"1":-0.0020000000949949026,"2":-0.028999999165534973,"3":-0.026000000536441803,"4":-0.003000000026077032,"5":-0.024000000208616257,"6":-0.04600000008940697,"7":-0.027000000700354576,"8":-0.039000000804662704,"9":-0.041999999433755875,"10":-0.03999999910593033,"11":-0.02800000086426735,"12":-0.039000000804662704,"13":-0.050999999046325684,"14":-0.07500000298023224,"15":-0.05700000002980232,"16":-0.0560000017285347},"bad_concepts":[]}}]]></excerpt:encoded>
@@ -3118,7 +3118,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/toy-02.jpeg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/toy-02.jpeg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/toy-02.jpeg]]></wp:meta_value>
@@ -3133,7 +3133,7 @@ content. -->
 			<link>http://localhost:8882/?attachment_id=2684</link>
 			<pubDate>Sun, 10 Nov 2024 18:31:36 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
-			<guid isPermaLink="false">https://micemade.com/wp-content/uploads/2024/11/toy-03.jpg</guid>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/toy-03.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3151,7 +3151,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/toy-03.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/toy-03.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/toy-03.jpg]]></wp:meta_value>
@@ -3166,7 +3166,7 @@ content. -->
 			<link>http://localhost:8882/toy-04-2/</link>
 			<pubDate>Sun, 10 Nov 2024 18:31:38 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
-			<guid isPermaLink="false">https://micemade.com/wp-content/uploads/2024/11/toy-04.jpg</guid>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/toy-04.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3184,7 +3184,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/toy-04.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/toy-04.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/toy-04.jpg]]></wp:meta_value>
@@ -3199,7 +3199,7 @@ content. -->
 			<link>http://localhost:8882/?attachment_id=2686</link>
 			<pubDate>Sun, 10 Nov 2024 18:31:39 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
-			<guid isPermaLink="false">https://micemade.com/wp-content/uploads/2024/11/toy-05.jpg</guid>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/toy-05.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3217,7 +3217,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/toy-05.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/toy-05.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/toy-05.jpg]]></wp:meta_value>
@@ -3233,7 +3233,7 @@ content. -->
 			<pubDate>Sun, 10 Nov 2024 18:51:11 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/circles-background.jpeg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/circles-background.jpeg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[{"prompt":"Simple graphic with circles in various colors and sizeswith white background. Four or five circles, background shuold be mostly white, especially in the middle. ","originalPrompt":"Simple graphic with circles in various colors and sizeswith white background. Four or five circles, background shuold be mostly white, especially in the middle. ","width":1024,"height":1024,"seed":43,"model":"flux","refine":false,"nologo":true,"negative_prompt":"worst quality, blurry","nofeed":true,"has_nsfw_concept":false,"concept":{"special_scores":{"0":-0.07000000029802322,"1":-0.04600000008940697,"2":-0.08699999749660492},"special_care":[],"concept_scores":{"0":-0.03999999910593033,"1":-0.03700000047683716,"2":-0.04699999839067459,"3":-0.041999999433755875,"4":-0.04399999976158142,"5":-0.04100000113248825,"6":-0.041999999433755875,"7":-0.029999999329447746,"8":-0.035999998450279236,"9":-0.09300000220537186,"10":-0.0560000017285347,"11":-0.052000001072883606,"12":-0.05000000074505806,"13":-0.04800000041723251,"14":-0.050999999046325684,"15":-0.05700000002980232,"16":-0.004999999888241291},"bad_concepts":[]}}]]></excerpt:encoded>
@@ -3251,7 +3251,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/circles-background.jpeg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/circles-background.jpeg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/circles-background.jpeg]]></wp:meta_value>
@@ -3318,7 +3318,7 @@ content. -->
 			<pubDate>Fri, 15 Nov 2024 10:22:34 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/screen-recording-2024-11-15-at-11.20.40_mov_hd.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/screen-recording-2024-11-15-at-11.20.40_mov_hd.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3336,7 +3336,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/screen-recording-2024-11-15-at-11.20.40_mov_hd.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/screen-recording-2024-11-15-at-11.20.40_mov_hd.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/screen-recording-2024-11-15-at-11.20.40_mov_hd.original.jpg]]></wp:meta_value>
@@ -3357,7 +3357,7 @@ content. -->
 			<pubDate>Fri, 15 Nov 2024 12:07:09 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/screen-recording-2024-11-15-at-11.20.40_mov_vp9_1440p.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/screen-recording-2024-11-15-at-11.20.40_mov_vp9_1440p.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3375,7 +3375,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/screen-recording-2024-11-15-at-11.20.40_mov_vp9_1440p.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/screen-recording-2024-11-15-at-11.20.40_mov_vp9_1440p.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/screen-recording-2024-11-15-at-11.20.40_mov_vp9_1440p.original.jpg]]></wp:meta_value>
@@ -3446,7 +3446,7 @@ content. -->
 			<pubDate>Fri, 15 Nov 2024 12:20:54 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/screen-recording-2024-11-15-at-13.18.55_mov_hd.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/screen-recording-2024-11-15-at-13.18.55_mov_hd.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3464,7 +3464,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/screen-recording-2024-11-15-at-13.18.55_mov_hd.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/screen-recording-2024-11-15-at-13.18.55_mov_hd.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/screen-recording-2024-11-15-at-13.18.55_mov_hd.original.jpg]]></wp:meta_value>
@@ -3485,7 +3485,7 @@ content. -->
 			<pubDate>Fri, 15 Nov 2024 12:22:14 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/screen-recording-2024-11-15-at-13.18.55_mov_hevc_2160p.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/screen-recording-2024-11-15-at-13.18.55_mov_hevc_2160p.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3503,7 +3503,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/screen-recording-2024-11-15-at-13.18.55_mov_hevc_2160p.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/screen-recording-2024-11-15-at-13.18.55_mov_hevc_2160p.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/screen-recording-2024-11-15-at-13.18.55_mov_hevc_2160p.original.jpg]]></wp:meta_value>
@@ -3574,7 +3574,7 @@ content. -->
 			<pubDate>Fri, 15 Nov 2024 14:07:30 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/screen-recording-2024-11-15-at-15.04.18_mov.scrubthumb.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/screen-recording-2024-11-15-at-15.04.18_mov.scrubthumb.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3592,7 +3592,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/screen-recording-2024-11-15-at-15.04.18_mov.scrubthumb-scaled.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/screen-recording-2024-11-15-at-15.04.18_mov.scrubthumb-scaled.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/screen-recording-2024-11-15-at-15.04.18_mov.scrubthumb-scaled.jpg]]></wp:meta_value>
@@ -3612,7 +3612,7 @@ content. -->
 			<pubDate>Fri, 15 Nov 2024 17:44:32 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/screen-recording-2024-11-15-at-18.42.15_mov.scrubthumb.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/screen-recording-2024-11-15-at-18.42.15_mov.scrubthumb.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3630,7 +3630,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/screen-recording-2024-11-15-at-18.42.15_mov.scrubthumb.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/screen-recording-2024-11-15-at-18.42.15_mov.scrubthumb.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/screen-recording-2024-11-15-at-18.42.15_mov.scrubthumb.jpg]]></wp:meta_value>
@@ -3701,7 +3701,7 @@ content. -->
 			<pubDate>Sat, 16 Nov 2024 12:46:30 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/screen-recording-2024-11-16-at-13.43.31-1_mov.scrubthumb.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/screen-recording-2024-11-16-at-13.43.31-1_mov.scrubthumb.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3719,7 +3719,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/screen-recording-2024-11-16-at-13.43.31-1_mov.scrubthumb.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/screen-recording-2024-11-16-at-13.43.31-1_mov.scrubthumb.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/screen-recording-2024-11-16-at-13.43.31-1_mov.scrubthumb.jpg]]></wp:meta_value>
@@ -3790,7 +3790,7 @@ content. -->
 			<pubDate>Sat, 16 Nov 2024 17:01:10 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/screen-recording-2024-11-16-at-17.59.10_mov.scrubthumb.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/screen-recording-2024-11-16-at-17.59.10_mov.scrubthumb.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3808,7 +3808,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/screen-recording-2024-11-16-at-17.59.10_mov.scrubthumb.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/screen-recording-2024-11-16-at-17.59.10_mov.scrubthumb.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/screen-recording-2024-11-16-at-17.59.10_mov.scrubthumb.jpg]]></wp:meta_value>
@@ -3846,7 +3846,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/crop-201-150-398-297-0-Landing-page-hero-images.png]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/crop-201-150-398-297-0-Landing-page-hero-images.png]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/crop-201-150-398-297-0-Landing-page-hero-images.png]]></wp:meta_value>
@@ -3862,7 +3862,7 @@ content. -->
 			<pubDate>Sun, 17 Nov 2024 10:12:35 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/11/Product-layout-graphics.png</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/Product-layout-graphics.png</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3880,7 +3880,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/Product-layout-graphics.png]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/Product-layout-graphics.png]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/Product-layout-graphics.png]]></wp:meta_value>
@@ -3947,7 +3947,7 @@ content. -->
 			<pubDate>Wed, 18 Dec 2024 10:48:17 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2024/12/screen-recording-2024-12-18-at-11.46.12_mov_hd.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/12/screen-recording-2024-12-18-at-11.46.12_mov_hd.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3965,7 +3965,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/12/screen-recording-2024-12-18-at-11.46.12_mov_hd.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/12/screen-recording-2024-12-18-at-11.46.12_mov_hd.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/12/screen-recording-2024-12-18-at-11.46.12_mov_hd.original.jpg]]></wp:meta_value>
@@ -4036,7 +4036,7 @@ content. -->
 			<pubDate>Tue, 07 Jan 2025 08:15:37 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2025/01/screen-recording-2025-01-07-at-09.07.58_mov_std.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/01/screen-recording-2025-01-07-at-09.07.58_mov_std.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4054,7 +4054,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2025/01/screen-recording-2025-01-07-at-09.07.58_mov_std.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/01/screen-recording-2025-01-07-at-09.07.58_mov_std.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2025/01/screen-recording-2025-01-07-at-09.07.58_mov_std.original.jpg]]></wp:meta_value>
@@ -4125,7 +4125,7 @@ content. -->
 			<pubDate>Tue, 07 Jan 2025 09:20:04 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2025/01/screen-recording-2025-01-07-at-10.17.07_mov_std.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/01/screen-recording-2025-01-07-at-10.17.07_mov_std.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4143,7 +4143,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2025/01/screen-recording-2025-01-07-at-10.17.07_mov_std.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/01/screen-recording-2025-01-07-at-10.17.07_mov_std.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2025/01/screen-recording-2025-01-07-at-10.17.07_mov_std.original.jpg]]></wp:meta_value>
@@ -4214,7 +4214,7 @@ content. -->
 			<pubDate>Tue, 07 Jan 2025 10:00:04 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2025/01/screen-recording-2025-01-07-at-10.56.14_mov_avc_240p.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/01/screen-recording-2025-01-07-at-10.56.14_mov_avc_240p.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4232,7 +4232,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2025/01/screen-recording-2025-01-07-at-10.56.14_mov_avc_240p.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/01/screen-recording-2025-01-07-at-10.56.14_mov_avc_240p.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2025/01/screen-recording-2025-01-07-at-10.56.14_mov_avc_240p.original.jpg]]></wp:meta_value>
@@ -4270,7 +4270,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/crop-441-328-317-236-0-Product-layout-graphics.png]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/crop-441-328-317-236-0-Product-layout-graphics.png]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/crop-441-328-317-236-0-Product-layout-graphics.png]]></wp:meta_value>
@@ -4304,7 +4304,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2024/11/crop-407-303-386-287-0-Product-layout-graphics.png]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/crop-407-303-386-287-0-Product-layout-graphics.png]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/11/crop-407-303-386-287-0-Product-layout-graphics.png]]></wp:meta_value>
@@ -4371,7 +4371,7 @@ content. -->
 			<pubDate>Wed, 22 Jan 2025 17:43:45 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2025/01/screen-recording-2025-01-22-at-18.40.50_mov_hd.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/01/screen-recording-2025-01-22-at-18.40.50_mov_hd.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4389,7 +4389,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2025/01/screen-recording-2025-01-22-at-18.40.50_mov_hd.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/01/screen-recording-2025-01-22-at-18.40.50_mov_hd.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2025/01/screen-recording-2025-01-22-at-18.40.50_mov_hd.original.jpg]]></wp:meta_value>
@@ -4458,7 +4458,7 @@ content. -->
 			<pubDate>Fri, 14 Feb 2025 13:25:00 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2025/02/category-styles_mp4_avc_240p.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/02/category-styles_mp4_avc_240p.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4476,7 +4476,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2025/02/category-styles_mp4_avc_240p.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/02/category-styles_mp4_avc_240p.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2025/02/category-styles_mp4_avc_240p.original.jpg]]></wp:meta_value>
@@ -4546,7 +4546,7 @@ content. -->
 			<pubDate>Fri, 14 Feb 2025 14:36:55 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2025/02/category-saving-styles_mp4_avc_240p.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/02/category-saving-styles_mp4_avc_240p.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4564,7 +4564,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2025/02/category-saving-styles_mp4_avc_240p.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/02/category-saving-styles_mp4_avc_240p.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2025/02/category-saving-styles_mp4_avc_240p.original.jpg]]></wp:meta_value>
@@ -4585,7 +4585,7 @@ content. -->
 			<pubDate>Fri, 14 Feb 2025 14:36:55 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2025/02/category-saving-styles_mp4_avc_240p.original-1.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/02/category-saving-styles_mp4_avc_240p.original-1.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4603,7 +4603,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2025/02/category-saving-styles_mp4_avc_240p.original-1.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/02/category-saving-styles_mp4_avc_240p.original-1.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2025/02/category-saving-styles_mp4_avc_240p.original-1.jpg]]></wp:meta_value>
@@ -4672,7 +4672,7 @@ content. -->
 			<pubDate>Sat, 15 Feb 2025 10:17:37 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2025/02/layout-editing_mp4_dvd.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/02/layout-editing_mp4_dvd.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4690,7 +4690,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2025/02/layout-editing_mp4_dvd.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/02/layout-editing_mp4_dvd.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2025/02/layout-editing_mp4_dvd.original.jpg]]></wp:meta_value>
@@ -4760,7 +4760,7 @@ content. -->
 			<pubDate>Wed, 26 Feb 2025 12:28:12 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2025/02/single-product-edit-layout-1_mp4_std.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/02/single-product-edit-layout-1_mp4_std.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4778,7 +4778,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2025/02/single-product-edit-layout-1_mp4_std.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/02/single-product-edit-layout-1_mp4_std.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2025/02/single-product-edit-layout-1_mp4_std.original.jpg]]></wp:meta_value>
@@ -5042,7 +5042,7 @@ content. -->
 			<pubDate>Wed, 26 Feb 2025 13:21:45 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2025/02/grouping-elements_mp4_std.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/02/grouping-elements_mp4_std.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5060,7 +5060,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2025/02/grouping-elements_mp4_std.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/02/grouping-elements_mp4_std.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2025/02/grouping-elements_mp4_std.original.jpg]]></wp:meta_value>
@@ -5130,7 +5130,7 @@ content. -->
 			<pubDate>Tue, 04 Mar 2025 08:59:58 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2025/03/single-product-edit-layout_mp4_dvd.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/03/single-product-edit-layout_mp4_dvd.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5148,7 +5148,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2025/03/single-product-edit-layout_mp4_dvd.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/03/single-product-edit-layout_mp4_dvd.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2025/03/single-product-edit-layout_mp4_dvd.original.jpg]]></wp:meta_value>
@@ -5218,7 +5218,7 @@ content. -->
 			<pubDate>Tue, 04 Mar 2025 11:30:35 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2025/03/grouping-elements_mp4_avc_240p.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/03/grouping-elements_mp4_avc_240p.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5236,7 +5236,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2025/03/grouping-elements_mp4_avc_240p.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/03/grouping-elements_mp4_avc_240p.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2025/03/grouping-elements_mp4_avc_240p.original.jpg]]></wp:meta_value>
@@ -5306,7 +5306,7 @@ content. -->
 			<pubDate>Tue, 04 Mar 2025 11:51:18 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2025/03/single-product-saving-setups_mp4_avc_240p.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/03/single-product-saving-setups_mp4_avc_240p.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5324,7 +5324,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2025/03/single-product-saving-setups_mp4_avc_240p.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/03/single-product-saving-setups_mp4_avc_240p.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2025/03/single-product-saving-setups_mp4_avc_240p.original.jpg]]></wp:meta_value>
@@ -5394,7 +5394,7 @@ content. -->
 			<pubDate>Tue, 04 Mar 2025 13:31:03 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2025/03/single-product-helpers_mp4_dvd.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/03/single-product-helpers_mp4_dvd.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5412,7 +5412,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2025/03/single-product-helpers_mp4_dvd.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/03/single-product-helpers_mp4_dvd.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2025/03/single-product-helpers_mp4_dvd.original.jpg]]></wp:meta_value>
@@ -5432,7 +5432,7 @@ content. -->
 			<pubDate>Thu, 13 Mar 2025 09:39:14 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2025/03/Mosaic-Product-Layouts-Reel-Cover.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/03/Mosaic-Product-Layouts-Reel-Cover.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5450,7 +5450,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2025/03/Mosaic-Product-Layouts-Reel-Cover.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/03/Mosaic-Product-Layouts-Reel-Cover.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2025/03/Mosaic-Product-Layouts-Reel-Cover.jpg]]></wp:meta_value>
@@ -5516,7 +5516,7 @@ content. -->
 			<pubDate>Thu, 13 Mar 2025 12:38:36 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2025/03/mosaic-product-layouts-reel_mp4_std.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/03/mosaic-product-layouts-reel_mp4_std.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5534,7 +5534,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2025/03/mosaic-product-layouts-reel_mp4_std.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/03/mosaic-product-layouts-reel_mp4_std.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2025/03/mosaic-product-layouts-reel_mp4_std.original.jpg]]></wp:meta_value>
@@ -5595,7 +5595,7 @@ content. -->
 			<pubDate>Tue, 18 Mar 2025 09:30:22 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2025/03/products-selection_mp4_dvd.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/03/products-selection_mp4_dvd.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5613,7 +5613,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2025/03/products-selection_mp4_dvd.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/03/products-selection_mp4_dvd.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2025/03/products-selection_mp4_dvd.original.jpg]]></wp:meta_value>
@@ -5675,7 +5675,7 @@ content. -->
 			<pubDate>Tue, 18 Mar 2025 10:14:32 +0000</pubDate>
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">
-				https://micemade.com/wp-content/uploads/2025/03/starter-layouts-and-styles_mp4_avc_240p.original.jpg</guid>
+				https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/03/starter-layouts-and-styles_mp4_avc_240p.original.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5693,7 +5693,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://micemade.com/wp-content/uploads/2025/03/starter-layouts-and-styles_mp4_avc_240p.original.jpg]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2025/03/starter-layouts-and-styles_mp4_avc_240p.original.jpg]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2025/03/starter-layouts-and-styles_mp4_avc_240p.original.jpg]]></wp:meta_value>
@@ -7541,8 +7541,8 @@ Aut aliquam repudiandae iure corporis. Ut delectus neque et nobis iure et deleni
 			<description></description>
 			<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"color":{"gradient":"linear-gradient(180deg,rgb(0,0,0) 0%,rgb(153,65,208) 9%,rgb(255,255,255) 17%)"},"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull has-background" style="background:linear-gradient(180deg,rgb(0,0,0) 0%,rgb(153,65,208) 9%,rgb(255,255,255) 17%)"><!-- wp:group {"metadata":{"name":"Intro","categories":["ollie-hero","intro"],"patternName":"core/block/2804"},"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"blockGap":"0","padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained","justifyContent":"center"}} -->
-<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-right:0;padding-left:0"><!-- wp:cover {"url":"https://micemade.com/wp-content/uploads/2024/11/Product-layout-graphics.png","id":2992,"hasParallax":true,"isRepeated":true,"isUserOverlayColor":true,"minHeight":319,"minHeightUnit":"px","customGradient":"radial-gradient(rgba(21,17,31,0.78) 32%,rgba(10,6,6,0.87) 100%)","align":"full","className":"is-style-default","style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"},"margin":{"top":"0","bottom":"0"},"blockGap":"0"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull has-parallax is-repeated is-style-default" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--medium);min-height:319px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:radial-gradient(rgba(21,17,31,0.78) 32%,rgba(10,6,6,0.87) 100%)"></span><div class="wp-block-cover__image-background wp-image-2992 has-parallax is-repeated" style="background-position:50% 50%;background-image:url(https://micemade.com/wp-content/uploads/2024/11/Product-layout-graphics.png)"></div><div class="wp-block-cover__inner-container"><!-- wp:group {"metadata":{"name":"Cover content"},"align":"wide","style":{"position":{"type":""},"spacing":{"blockGap":"var:preset|spacing|small","margin":{"bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|border-light"}}}},"textColor":"border-light","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-right:0;padding-left:0"><!-- wp:cover {"url":"https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/Product-layout-graphics.png","id":2992,"hasParallax":true,"isRepeated":true,"isUserOverlayColor":true,"minHeight":319,"minHeightUnit":"px","customGradient":"radial-gradient(rgba(21,17,31,0.78) 32%,rgba(10,6,6,0.87) 100%)","align":"full","className":"is-style-default","style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"},"margin":{"top":"0","bottom":"0"},"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull has-parallax is-repeated is-style-default" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--medium);min-height:319px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:radial-gradient(rgba(21,17,31,0.78) 32%,rgba(10,6,6,0.87) 100%)"></span><div class="wp-block-cover__image-background wp-image-2992 has-parallax is-repeated" style="background-position:50% 50%;background-image:url(https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/Product-layout-graphics.png)"></div><div class="wp-block-cover__inner-container"><!-- wp:group {"metadata":{"name":"Cover content"},"align":"wide","style":{"position":{"type":""},"spacing":{"blockGap":"var:preset|spacing|small","margin":{"bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|border-light"}}}},"textColor":"border-light","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide has-border-light-color has-text-color has-link-color" style="margin-bottom:0"><!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center">Create flexible, free-form, and creative layouts for WooCommerce</p>
 <!-- /wp:paragraph -->
@@ -7558,8 +7558,8 @@ Aut aliquam repudiandae iure corporis. Ut delectus neque et nobis iure et deleni
 <!-- /wp:cover --></div>
 <!-- /wp:group -->
 
-<!-- wp:cover {"url":"https://micemade.com/wp-content/uploads/2024/11/circles-background.jpeg","id":2692,"dimRatio":80,"isUserOverlayColor":true,"focalPoint":{"x":1,"y":0.28},"customGradient":"linear-gradient(135deg,rgb(13,7,7) 0%,rgb(18,3,35) 52%,rgb(125,46,92) 100%)","metadata":{"name":"Features"},"align":"full","className":"is-style-blur-image-more z-index-3","style":{"spacing":{"padding":{"top":"var:preset|spacing|xx-large","bottom":"var:preset|spacing|xx-large","left":"0","right":"0"}},"color":[]},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull is-style-blur-image-more z-index-3" style="padding-top:var(--wp--preset--spacing--xx-large);padding-right:0;padding-bottom:var(--wp--preset--spacing--xx-large);padding-left:0"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-80 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(135deg,rgb(13,7,7) 0%,rgb(18,3,35) 52%,rgb(125,46,92) 100%)"></span><img class="wp-block-cover__image-background wp-image-2692" alt="" src="https://micemade.com/wp-content/uploads/2024/11/circles-background.jpeg" style="object-position:100% 28%" data-object-fit="cover" data-object-position="100% 28%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"metadata":{"name":"Grouped features"},"align":"wide","style":{"spacing":{"padding":{"right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}}},"layout":{"type":"default"}} -->
+<!-- wp:cover {"url":"https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/circles-background.jpeg","id":2692,"dimRatio":80,"isUserOverlayColor":true,"focalPoint":{"x":1,"y":0.28},"customGradient":"linear-gradient(135deg,rgb(13,7,7) 0%,rgb(18,3,35) 52%,rgb(125,46,92) 100%)","metadata":{"name":"Features"},"align":"full","className":"is-style-blur-image-more z-index-3","style":{"spacing":{"padding":{"top":"var:preset|spacing|xx-large","bottom":"var:preset|spacing|xx-large","left":"0","right":"0"}},"color":[]},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull is-style-blur-image-more z-index-3" style="padding-top:var(--wp--preset--spacing--xx-large);padding-right:0;padding-bottom:var(--wp--preset--spacing--xx-large);padding-left:0"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-80 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(135deg,rgb(13,7,7) 0%,rgb(18,3,35) 52%,rgb(125,46,92) 100%)"></span><img class="wp-block-cover__image-background wp-image-2692" alt="" src="https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/circles-background.jpeg" style="object-position:100% 28%" data-object-fit="cover" data-object-position="100% 28%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"metadata":{"name":"Grouped features"},"align":"wide","style":{"spacing":{"padding":{"right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}}},"layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide" style="padding-right:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|medium"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
 <p><strong>Mosaic Product Layouts</strong> plugin was built with an idea to provide a solution for, what we @Micemade perceived, a lack of possibilities to create stunning product layouts inside the WordPress block editor.</p>
@@ -7682,8 +7682,8 @@ Aut aliquam repudiandae iure corporis. Ut delectus neque et nobis iure et deleni
 <!-- /wp:group --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:cover {"url":"https://micemade.com/wp-content/uploads/2024/11/crop-0-0-1200-893-0-Product-layout-graphics.png","id":3001,"hasParallax":true,"isRepeated":true,"dimRatio":90,"customOverlayColor":"#b8c0be","isUserOverlayColor":false,"customGradient":"linear-gradient(165deg,rgb(0,0,0) 38%,rgb(153,65,208) 100%)","isDark":false,"metadata":{"name":"Cover create any"},"align":"full","className":"is-style-default","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"default"}} -->
-<div class="wp-block-cover alignfull is-light has-parallax is-repeated is-style-default" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background-color:#b8c0be;background:linear-gradient(165deg,rgb(0,0,0) 38%,rgb(153,65,208) 100%)"></span><div class="wp-block-cover__image-background wp-image-3001 has-parallax is-repeated" style="background-position:50% 50%;background-image:url(https://micemade.com/wp-content/uploads/2024/11/crop-0-0-1200-893-0-Product-layout-graphics.png)"></div><div class="wp-block-cover__inner-container"><!-- wp:group {"metadata":{"name":"Create any ... content"},"align":"full","className":"is-style-blur-image-less is-style-default","style":{"spacing":{"padding":{"top":"var:preset|spacing|xx-large","bottom":"var:preset|spacing|xx-large","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
+<!-- wp:cover {"url":"https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/crop-0-0-1200-893-0-Product-layout-graphics.png","id":3001,"hasParallax":true,"isRepeated":true,"dimRatio":90,"customOverlayColor":"#b8c0be","isUserOverlayColor":false,"customGradient":"linear-gradient(165deg,rgb(0,0,0) 38%,rgb(153,65,208) 100%)","isDark":false,"metadata":{"name":"Cover create any"},"align":"full","className":"is-style-default","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-cover alignfull is-light has-parallax is-repeated is-style-default" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background-color:#b8c0be;background:linear-gradient(165deg,rgb(0,0,0) 38%,rgb(153,65,208) 100%)"></span><div class="wp-block-cover__image-background wp-image-3001 has-parallax is-repeated" style="background-position:50% 50%;background-image:url(https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/crop-0-0-1200-893-0-Product-layout-graphics.png)"></div><div class="wp-block-cover__inner-container"><!-- wp:group {"metadata":{"name":"Create any ... content"},"align":"full","className":"is-style-blur-image-less is-style-default","style":{"spacing":{"padding":{"top":"var:preset|spacing|xx-large","bottom":"var:preset|spacing|xx-large","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull is-style-blur-image-less is-style-default" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xx-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--xx-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:heading {"textAlign":"center","level":1,"className":"title-gradient coblocks-animate","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"}},"typography":{"fontStyle":"normal","fontWeight":"700"},"color":{"gradient":"linear-gradient(135deg,rgb(255,150,77) 0%,rgb(156,81,255) 100%)"}}} -->
 <h1 class="wp-block-heading has-text-align-center title-gradient coblocks-animate has-background" id="create-any-layout" style="background:linear-gradient(135deg,rgb(255,150,77) 0%,rgb(156,81,255) 100%);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-style:normal;font-weight:700">Create any layout</h1>
 <!-- /wp:heading -->
@@ -12457,8 +12457,8 @@ Aliquam natus necessitatibus numquam pariatur. Similique expedita qui quibusdam 
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">https://micemade.com/2022/11/11/index/</guid>
 			<description></description>
-			<content:encoded><![CDATA[<!-- wp:cover {"url":"https://micemade.com/wp-content/uploads/2022/09/wp-cli-delete-old-posts.png","id":1101,"dimRatio":40,"overlayColor":"brown","style":{"color":{"duotone":["#000000","rgb(255, 125, 47)"]}}} -->
-<div class="wp-block-cover"><span aria-hidden="true" class="wp-block-cover__background has-brown-background-color has-background-dim-40 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-1101" alt="" src="https://micemade.com/wp-content/uploads/2022/09/wp-cli-delete-old-posts.png" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:group -->
+			<content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2022/09/wp-cli-delete-old-posts.png","id":1101,"dimRatio":40,"overlayColor":"brown","style":{"color":{"duotone":["#000000","rgb(255, 125, 47)"]}}} -->
+<div class="wp-block-cover"><span aria-hidden="true" class="wp-block-cover__background has-brown-background-color has-background-dim-40 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-1101" alt="" src="https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2022/09/wp-cli-delete-old-posts.png" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:template-part {"slug":"header","theme":"rainfall"} /-->
 
 <!-- wp:group {"layout":{"type":"constrained"}} -->
@@ -14490,8 +14490,8 @@ Aliquam natus necessitatibus numquam pariatur. Similique expedita qui quibusdam 
 			<dc:creator><![CDATA[alensirola69]]></dc:creator>
 			<guid isPermaLink="false">https://micemade.com/2023/06/28/header/</guid>
 			<description></description>
-			<content:encoded><![CDATA[<!-- wp:cover {"url":"https://micemade.com/wp-content/uploads/2023/06/pexels-photo-6585788.jpeg","id":1579,"dimRatio":80,"focalPoint":{"x":0.59,"y":0.42},"minHeight":15,"minHeightUnit":"vw","customGradient":"linear-gradient(180deg,rgb(0,0,71) 0%,rgb(0,61,166) 100%)","contentPosition":"center center","align":"full","textColor":"background","className":"is-style-default","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull is-style-default has-background-color has-text-color" style="min-height:15vw"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-80 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgb(0,0,71) 0%,rgb(0,61,166) 100%)"></span><img class="wp-block-cover__image-background wp-image-1579" alt="" src="https://micemade.com/wp-content/uploads/2023/06/pexels-photo-6585788.jpeg" style="object-position:59% 42%" data-object-fit="cover" data-object-position="59% 42%" /><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"4vw","bottom":"4vw"},"blockGap":"0"}},"layout":{"type":"flex","justifyContent":"space-between","orientation":"horizontal"}} -->
+			<content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2023/06/pexels-photo-6585788.jpeg","id":1579,"dimRatio":80,"focalPoint":{"x":0.59,"y":0.42},"minHeight":15,"minHeightUnit":"vw","customGradient":"linear-gradient(180deg,rgb(0,0,71) 0%,rgb(0,61,166) 100%)","contentPosition":"center center","align":"full","textColor":"background","className":"is-style-default","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull is-style-default has-background-color has-text-color" style="min-height:15vw"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-80 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgb(0,0,71) 0%,rgb(0,61,166) 100%)"></span><img class="wp-block-cover__image-background wp-image-1579" alt="" src="https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2023/06/pexels-photo-6585788.jpeg" style="object-position:59% 42%" data-object-fit="cover" data-object-position="59% 42%" /><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"4vw","bottom":"4vw"},"blockGap":"0"}},"layout":{"type":"flex","justifyContent":"space-between","orientation":"horizontal"}} -->
 <div class="wp-block-group alignwide" style="padding-top:4vw;padding-bottom:4vw"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"flex"}} -->
 <div class="wp-block-group" style="margin-top:0;margin-bottom:0"><!-- wp:site-logo {"width":60} /-->
 
