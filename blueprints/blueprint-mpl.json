@@ -63,7 +63,7 @@
 		},
 		{
 			"step": "runPHP",
-			"code": "<?php add_action('init', function() { if (!class_exists('WC_Product_CSV_Importer_Controller')) { error_log('WooCommerce CSV Importer not found.'); return; } $csv_url = 'https://raw.githubusercontent.com/Micemade/playground/Woo_Product_Dummy_Data_Set_Simple_and_Variable.csv'; $upload_dir = wp_upload_dir(); $csv_path = $upload_dir['path'] . '/products.csv'; $csv_content = file_get_contents($csv_url); if (!$csv_content) { error_log('Failed to download CSV file.'); return; } file_put_contents($csv_path, $csv_content); $importer = new WC_Product_CSV_Importer_Controller(); $importer->import_start(); $importer->import($csv_path); $importer->import_end(); error_log('WooCommerce product import completed!'); });"
+			"code": "<?php include 'wordpress/wp-load.php';add_action('init', function() { if (!class_exists('WC_Product_CSV_Importer_Controller')) { error_log('WooCommerce CSV Importer not found.'); return; } $csv_url = 'https://raw.githubusercontent.com/Micemade/playground/Woo_Product_Dummy_Data_Set_Simple_and_Variable.csv'; $upload_dir = wp_upload_dir(); $csv_path = $upload_dir['path'] . '/products.csv'; $csv_content = file_get_contents($csv_url); if (!$csv_content) { error_log('Failed to download CSV file.'); return; } file_put_contents($csv_path, $csv_content); $importer = new WC_Product_CSV_Importer_Controller(); $importer->import_start(); $importer->import($csv_path); $importer->import_end(); error_log('WooCommerce product import completed!'); });"
 			}
 	]
 }
