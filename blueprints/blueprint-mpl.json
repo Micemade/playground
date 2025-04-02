@@ -8,7 +8,7 @@
 	"plugins": [
 		"wordpress-importer",
 		"woocommerce",
-		"https://raw.githubusercontent.com/Micemade/playground/main/releases/mosaic-product-layouts-v.1.0.0.zip",
+		"https://raw.githubusercontent.com/Micemade/playground/main/releases/mosaic-product-layouts-v.1.0.0.zip"
 	],
 	"steps": [
 		{
