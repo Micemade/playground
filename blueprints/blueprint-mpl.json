@@ -60,6 +60,10 @@
 		{
 			"step": "runPHP",
 			"code": "<?php include 'wordpress/wp-load.php';add_action('init', function () { if (!class_exists('WP_Import')) { require_once ABSPATH . 'wp-admin/includes/import.php'; require_once WP_PLUGIN_DIR . '/wordpress-importer/wordpress-importer.php';} $file_url = 'https://raw.githubusercontent.com/Micemade/playground/main/WXR-imports/mpl-playground.xml'; $upload_dir = wp_upload_dir();$file_path = $upload_dir['path'] . '/import.xml'; /* Download the XML file */ $response = wp_remote_get($file_url); if (is_wp_error($response)) { error_log('Failed to fetch XML file: ' . $response->get_error_message()); return; } file_put_contents($file_path, wp_remote_retrieve_body($response));/* Run Import */$importer = new WP_Import();$importer->fetch_attachments = true;$importer->import($file_path);error_log('Import process completed successfully.');});"
-		}
+		},
+		{
+			"step": "runPHP",
+			"code": "<?php add_action('init', function() { if (!class_exists('WC_Product_CSV_Importer_Controller')) { error_log('WooCommerce CSV Importer not found.'); return; } $csv_url = 'https://raw.githubusercontent.com/Micemade/playground/Woo_Product_Dummy_Data_Set_Simple_and_Variable.csv'; $upload_dir = wp_upload_dir(); $csv_path = $upload_dir['path'] . '/products.csv'; $csv_content = file_get_contents($csv_url); if (!$csv_content) { error_log('Failed to download CSV file.'); return; } file_put_contents($csv_path, $csv_content); $importer = new WC_Product_CSV_Importer_Controller(); $importer->import_start(); $importer->import($csv_path); $importer->import_end(); error_log('WooCommerce product import completed!'); });"
+			}
 	]
 }
