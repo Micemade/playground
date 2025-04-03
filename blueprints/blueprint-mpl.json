@@ -58,11 +58,8 @@
 			}
 		},
 		{
-			"step": "importWxr",
-			"file": {
-				"resource": "url",
-				"url": "https://raw.githubusercontent.com/Micemade/playground/main/WXR-imports/mpl-playground.xml"
-			}
+			"step": "wp-cli",
+			"command": "wp import https://raw.githubusercontent.com/Micemade/playground/main/WXR-imports/mpl-playground.xml --authors=create"
 		}
 	]
 }
