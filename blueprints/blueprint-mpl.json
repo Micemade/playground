@@ -34,6 +34,13 @@
 			}
 		},
 		{
+			"step": "importWxr",
+			"file": {
+				"resource": "url",
+				"url": "https://raw.githubusercontent.com/Micemade/playground/main/WXR-imports/mpl-playground.xml"
+			}
+		},
+		{
 			"step": "runPHP",
 			"code": "<?php include 'wordpress/wp-load.php'; delete_transient( '_wc_activation_redirect' );"
 		},
@@ -56,10 +63,6 @@
 					"enabled": "yes"
 				}
 			}
-		},
-		{
-			"step": "wp-cli",
-			"command": "wp import https://raw.githubusercontent.com/Micemade/playground/main/WXR-imports/mpl-playground.xml --authors=create"
 		}
 	]
 }
