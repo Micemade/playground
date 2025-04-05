@@ -68,3 +68,4 @@ foreach ( $products as $product ) {
 		$product['image_url']
 	);
 }
+
