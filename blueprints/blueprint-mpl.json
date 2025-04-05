@@ -5,9 +5,6 @@
 		"php": "8.0",
 		"wp": "latest"
 	},
-	"features": {
-		"networking": true
-	},
 	"plugins": [
 		"wordpress-importer",
 		"woocommerce",
@@ -38,7 +35,7 @@
 		},
 		{
 			"step": "runPHP",
-			"code": "<?php include 'wordpress/wp-load.php'; delete_transient( '_wc_activation_redirect' );update_option( 'woocommerce_onboarding_profile', [ 'completed' => true ] );"
+			"code": "<?php include 'wordpress/wp-load.php'; delete_transient( '_wc_activation_redirect' );"
 		},
 		{
 			"step": "importWxr",
