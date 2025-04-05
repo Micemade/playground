@@ -13711,11 +13711,11 @@ Aliquam natus necessitatibus numquam pariatur. Similique expedita qui quibusdam 
 <!-- /wp:navigation-submenu -->
 
 <!-- wp:navigation-submenu {"label":"Demos","url":"#","kind":"custom"} -->
-<!-- wp:navigation-link {"label":"Products layout demo","type":"page","id":2599,"url":"products-layout-demo/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Products layout demo","type":"page","id":2599,"url":"/products-layout-demo/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Categories layout demo","type":"page","id":3382,"url":"categories-layout-demo/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Categories layout demo","type":"page","id":3382,"url":"/categories-layout-demo/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Single product layout demo","type":"page","id":3977,"url":"single-product-layout-demo/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Single product layout demo","type":"page","id":3977,"url":"/single-product-layout-demo/","kind":"post-type"} /-->
 <!-- /wp:navigation-submenu -->
 
 <!-- wp:navigation-submenu {"label":"Plugins"} -->
