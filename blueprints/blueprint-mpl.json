@@ -63,6 +63,10 @@
 					"enabled": "yes"
 				}
 			}
-		}
+		},
+		{
+			"step": "runPHP",
+			"code": "<?php require_once(ABSPATH.'wp-admin/includes/image.php');require_once(ABSPATH.'wp-admin/includes/file.php');require_once(ABSPATH.'wp-admin/includes/media.php');function attach_images_by_slug($d){foreach($d as$i){$p=get_post(['name'=>$i['slug'],'post_type'=>'product','post_status'=>'publish']);if(!$p){error_log('Product not found with slug: '.$i['slug']);continue;}$u=media_sideload_image($i['image_url'],$p->ID,null,'id');if(is_wp_error($u)){error_log('Failed to upload image for product slug: '.$i['slug']);continue;}if(!empty($i['is_gallery'])){$g=get_post_meta($p->ID,'_product_image_gallery',true);$g=empty($g)?[]:explode(',',$g);$g[]=$u;update_post_meta($p->ID,'_product_image_gallery',implode(',',$g));}else{set_post_thumbnail($p->ID,$u);}}}$products_data=[['slug'=>'grey-sweater','image_url'=>'https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-05.jpg','is_gallery'=>false],['slug'=>'elastic-orange-top-with-pink-leggings','image_url'=>'https://raw.githubusercontent.com/Micemade/playground/main/media/mpl-playground/2024/11/woman-sport-11.jpg','is_gallery'=>true]];attach_images_by_slug($products_data);"
+        }
 	]
 }
