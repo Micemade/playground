@@ -1,73 +1,71 @@
 {
-	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
-	"landingPage": "/products-layout-demo/",
-	"preferredVersions": {
-		"php": "8.4",
-		"wp": "latest"
-	},
-	"features": {
-		"networking": true
-	},
-	"extraLibraries": [ "wp-cli" ],
-	"plugins": [
-		"wordpress-importer",
-		"woocommerce",
-		"https://raw.githubusercontent.com/Micemade/playground/main/releases/mosaic-product-layouts-v.1.0.0.zip"
-	],
-	"steps": [
-		{
-			"step": "login"
-		},
-		{
-			"step": "resetData"
-		},
-		{
-			"step": "writeFile",
-			"path": "/wordpress/wp-content/mu-plugins/rewrite.php",
-			"data": "<?php /* Use pretty permalinks*/ add_action( 'after_setup_theme', function() { global $wp_rewrite; $wp_rewrite->set_permalink_structure('/%postname%/'); $wp_rewrite->flush_rules(); } );"
-		},
-		{
-			"step": "installTheme",
-			"themeData": {
-				"resource": "wordpress.org/themes",
-				"slug": "ollie"
-			},
-			"options": {
-				"activate": true,
-				"importStarterContent": true
-			}
-		},
-		{
-			"step": "runPHP",
-			"code": "<?php include 'wordpress/wp-load.php'; delete_transient( '_wc_activation_redirect' );"
-		},
-		{
-			"step": "setSiteOptions",
-			"options": {
-				"blogname":"MPL playground",
-				"woocommerce_store_city":"Rijeka",
-				"woocommerce_store_address":"123 Main Street",
-				"woocommerce_store_postcode":"51000",
-				"woocommerce_default_country":"HR:HR-08",
-				"woocommerce_onboarding_profile":{
-					"skipped": true
-				},
-				"woocommerce_currency": "EUR",
-				"woocommerce_weight_unit": "kg",
-				"woocommerce_dimension_unit": "cm",
-				"woocommerce_allow_tracking": "no",
-				"woocommerce_cheque_settings": {
-					"enabled": "yes"
-				}
-			}
-		},
-		{
-			"step": "runPHP",
-			"code": "<?php include 'wordpress/wp-load.php';function upload_file_by_url($image_url){require_once(ABSPATH.'wp-admin/includes/file.php');$temp_file=download_url($image_url);if(is_wp_error($temp_file)){return false;}$file=array('name'=>basename($image_url),'type'=>mime_content_type($temp_file),'tmp_name'=>$temp_file,'size'=>filesize($temp_file));$sideload=wp_handle_sideload($file,array('test_form'=>false));if(!empty($sideload['error'])){return false;}$attachment_id=wp_insert_attachment(array('guid'=>$sideload['url'],'post_mime_type'=>$sideload['type'],'post_title'=>basename($sideload['file']),'post_content'=>'','post_status'=>'inherit'),$sideload['file']);if(is_wp_error($attachment_id)||!$attachment_id){return false;}require_once(ABSPATH.'wp-admin/includes/image.php');wp_update_attachment_metadata($attachment_id,wp_generate_attachment_metadata($attachment_id,$sideload['file']));return $attachment_id;} upload_file_by_url('https://raw.githubusercontent.com/Micemade/playground/main/WXR-imports/mpl-playground.xml');"
-		},
-		{
-			"step": "wp-cli",
-			"command": "wp import mpl-playground.xml --authors=create"
-		}
-	]
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "landingPage": "/products-layout-demo/",
+  "preferredVersions": {
+    "php": "8.4",
+    "wp": "latest"
+  },
+  "features": {
+    "networking": true
+  },
+  "extraLibraries": [
+    "wp-cli"
+  ],
+  "plugins": [
+    "wordpress-importer",
+    "woocommerce",
+    "https://raw.githubusercontent.com/Micemade/playground/main/releases/mosaic-product-layouts-v.1.0.0.zip"
+  ],
+  "steps": [
+    {
+      "step": "login"
+    },
+    {
+      "step": "writeFile",
+      "path": "/wordpress/wp-content/mu-plugins/rewrite.php",
+      "data": "<?php /* Use pretty permalinks*/ add_action( 'after_setup_theme', function() { global $wp_rewrite; $wp_rewrite->set_permalink_structure('/%postname%/'); $wp_rewrite->flush_rules(); } );"
+    },
+    {
+      "step": "installTheme",
+      "themeData": {
+        "resource": "wordpress.org/themes",
+        "slug": "ollie"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php include 'wordpress/wp-load.php'; delete_transient( '_wc_activation_redirect' );"
+    },
+    {
+      "step": "setSiteOptions",
+      "options": {
+        "blogname": "MPL playground",
+        "woocommerce_store_city": "Rijeka",
+        "woocommerce_store_address": "123 Main Street",
+        "woocommerce_store_postcode": "51000",
+        "woocommerce_default_country": "HR:HR-08",
+        "woocommerce_onboarding_profile": {
+          "skipped": true
+        },
+        "woocommerce_currency": "EUR",
+        "woocommerce_weight_unit": "kg",
+        "woocommerce_dimension_unit": "cm",
+        "woocommerce_allow_tracking": "no",
+        "woocommerce_cheque_settings": {
+          "enabled": "yes"
+        }
+      }
+    },
+    {
+      "step": "importWxr",
+      "file": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/Micemade/playground/main/WXR-imports/mpl-playground.xml"
+      }
+    }
+  ],
+  "login": true
 }
