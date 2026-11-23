@@ -29,6 +29,11 @@
       "data": "<?php /* Use pretty permalinks */ add_action( 'after_setup_theme', function() { global $wp_rewrite; $wp_rewrite->set_permalink_structure('/%postname%/'); $wp_rewrite->flush_rules(); } );"
     },
     {
+      "step": "writeFile",
+      "path": "/wordpress/wp-content/mu-plugins/pofsf-playground.php",
+      "data": "<?php /* Personalized Offers demo in WordPress Playground. */ /* Playground serves the site from a service worker, so previews need the admin's origin. */ add_filter( 'pofsf_preview_same_origin', '__return_true' ); /* Background requests to admin-ajax.php are blocked by the browser in Playground (CORS). */ add_filter( 'woocommerce_background_image_regeneration', '__return_false' ); add_filter( 'action_scheduler_allow_async_request_runner', '__return_false' );"
+    },
+    {
       "step": "installPlugin",
       "pluginData": {
         "resource": "url",
