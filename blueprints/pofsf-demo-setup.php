@@ -148,6 +148,9 @@ $run = static function (string $name, array $input) {
 
 $run('lock-brand', []);
 
+// The welcome modal opens for the demo admin, as after a fresh install.
+update_option('pofsf_welcome_pending', 1, false);
+
 // Single offers for three of the best customers, composed from their profiles.
 $best = array_values(array_filter(array_map(static fn ($key) => $users[$key]['id'] ?? 0, ['c01', 'c02', 'c03'])));
 $single = $run('create-offers', ['user_ids' => $best]);
